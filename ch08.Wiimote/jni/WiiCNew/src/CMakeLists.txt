@@ -1,0 +1,33 @@
+CMAKE_MINIMUM_REQUIRED(VERSION 2.6)
+PROJECT(WiiC)
+
+# Preliminary stuff
+IF(${CMAKE_SYSTEM_NAME} MATCHES "Linux")
+	SET(LINUX 1)
+	ADD_DEFINITIONS(-DLINUX)
+ENDIF(${CMAKE_SYSTEM_NAME} MATCHES "Linux")
+
+SET(CMAKE_MODULE_PATH "${CMAKE_SOURCE_DIR}/cmake_modules/")
+
+# Third-party libraries
+FIND_PACKAGE(Bluetooth REQUIRED)
+FIND_PACKAGE(OpenCV QUIET)
+IF(OpenCV_FOUND)
+	MESSAGE(STATUS "Found OpenCV: ${OpenCV_LIBS}")
+ELSE(OpenCV_FOUND)
+	MESSAGE(STATUS "OpenCV not found. WiiC-ML will not be compiled.")
+ENDIF(OpenCV_FOUND)
+
+# Source code
+ADD_SUBDIRECTORY(wiic)
+ADD_SUBDIRECTORY(wiicpp)
+ADD_SUBDIRECTORY(ml)
+ADD_SUBDIRECTORY(bin)
+
+# Config dir
+MAKE_DIRECTORY($ENV{HOME}/.wiic)
+
+# Documentation
+SET(DOXYFILE_OUTPUT_DIR "${CMAKE_SOURCE_DIR}/../doc")
+include(UseDoxygen)
+

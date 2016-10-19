@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry kind="lib" path="libs/zc-strings-1.4.1.jar"/>
+	<classpathentry kind="lib" path="libs/ZControllerLib-android-1.4.1.jar"/>
+	<classpathentry kind="lib" path="libs/ZControllerLib-android-ui-1.4.1.jar"/>
+	<classpathentry kind="lib" path="libs/ZControllerLib-common-1.4.1.jar"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>

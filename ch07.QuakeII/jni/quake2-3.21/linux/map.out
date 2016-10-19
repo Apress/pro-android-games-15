@@ -1,0 +1,2213 @@
+Archive member included because of file (symbol)
+
+/usr/lib/libc_nonshared.a(stack_chk_fail_local.oS)
+                              debugi386-glibc/ref_soft/r_draw.o (__stack_chk_fail_local)
+
+Allocating common symbols
+Common symbol       size              file
+
+r_cnumsurfs         0x4               debugi386-glibc/ref_soft/r_main.o
+aliasworldtransform
+                    0x30              debugi386-glibc/ref_soft/r_alias.o
+r_lefthand          0x4               debugi386-glibc/ref_soft/r_main.o
+r_surfsonstack      0x4               debugi386-glibc/ref_soft/r_main.o
+d_pix_max           0x4               debugi386-glibc/ref_soft/r_misc.o
+d_pix_min           0x4               debugi386-glibc/ref_soft/r_misc.o
+d_pedgespanpackage  0x4               debugi386-glibc/ref_soft/r_polyse.o
+d_vrectbottom_particle
+                    0x4               debugi386-glibc/ref_soft/r_misc.o
+r_turb_sstep        0x4               debugi386-glibc/ref_soft/r_scan.o
+r_leftenter         0xc               debugi386-glibc/ref_soft/r_rast.o
+pointcolor          0xc               debugi386-glibc/ref_soft/r_light.o
+edge_head           0x20              debugi386-glibc/ref_soft/r_edge.o
+sw_mipcap           0x4               debugi386-glibc/ref_soft/r_misc.o
+_LittleLong         0x4               debugi386-glibc/ref_soft/q_shared.o
+surfaces            0x4               debugi386-glibc/ref_soft/r_edge.o
+modes               0x4               debugi386-glibc/ref_soft/rw_svgalib.o
+r_dowarp            0x4               debugi386-glibc/ref_soft/r_main.o
+xscaleshrink        0x4               debugi386-glibc/ref_soft/r_main.o
+dp_time1            0x4               debugi386-glibc/ref_soft/r_main.o
+r_stepback          0x4               debugi386-glibc/ref_soft/r_surf.o
+xscale              0x4               debugi386-glibc/ref_soft/r_main.o
+sw_reportedgeout    0x4               debugi386-glibc/ref_soft/r_main.o
+r_plightvec         0xc               debugi386-glibc/ref_soft/r_alias.o
+r_cache_thrash      0x4               debugi386-glibc/ref_soft/r_surf.o
+lightright          0x4               debugi386-glibc/ref_soft/r_surf.o
+r_lightlevel        0x4               debugi386-glibc/ref_soft/r_main.o
+r_clip_verts        0xaf0             debugi386-glibc/ref_soft/r_poly.o
+blockdivmask        0x4               debugi386-glibc/ref_soft/r_surf.o
+com_token           0x80              debugi386-glibc/ref_soft/q_shared.o
+r_leftclipped       0x4               debugi386-glibc/ref_soft/r_rast.o
+r_outofsurfaces     0x4               debugi386-glibc/ref_soft/r_main.o
+insubmodel          0x4               debugi386-glibc/ref_soft/r_bsp.o
+edge_head_u_shift20
+                    0x4               debugi386-glibc/ref_soft/r_edge.o
+transformed_modelorg
+                    0xc               debugi386-glibc/ref_soft/r_edge.o
+current_mode        0x4               debugi386-glibc/ref_soft/rw_svgalib.o
+ubasestep           0x4               debugi386-glibc/ref_soft/r_edge.o
+VGA_bufferrowbytes  0x4               debugi386-glibc/ref_soft/rw_svgalib.o
+de_time2            0x4               debugi386-glibc/ref_soft/r_main.o
+r_zistepx           0x4               debugi386-glibc/ref_soft/r_polyse.o
+sw_clearcolor       0x4               debugi386-glibc/ref_soft/r_main.o
+vpn                 0xc               debugi386-glibc/ref_soft/r_main.o
+d_light             0x4               debugi386-glibc/ref_soft/r_polyse.o
+r_turb_t            0x4               debugi386-glibc/ref_soft/r_scan.o
+corners             0x18              debugi386-glibc/ref_soft/q_shared.o
+a_sstepxfrac        0x4               debugi386-glibc/ref_soft/r_polyse.o
+verticalFieldOfView
+                    0x4               debugi386-glibc/ref_soft/r_main.o
+r_sstepy            0x4               debugi386-glibc/ref_soft/r_polyse.o
+d_xdenom            0x4               debugi386-glibc/ref_soft/r_polyse.o
+r_lstepy            0x4               debugi386-glibc/ref_soft/r_polyse.o
+vid_fullscreen      0x4               debugi386-glibc/ref_soft/r_main.o
+xscaleinv           0x4               debugi386-glibc/ref_soft/r_main.o
+s_pmdl              0x4               debugi386-glibc/ref_soft/r_alias.o
+surface_p           0x4               debugi386-glibc/ref_soft/r_edge.o
+se_time2            0x4               debugi386-glibc/ref_soft/r_main.o
+d_roverwrapped      0x4               debugi386-glibc/ref_soft/r_misc.o
+vid_gamma           0x4               debugi386-glibc/ref_soft/r_main.o
+sw_drawflat         0x4               debugi386-glibc/ref_soft/r_main.o
+r_pright            0xc               debugi386-glibc/ref_soft/r_part.o
+d_lightbasestep     0x4               debugi386-glibc/ref_soft/r_polyse.o
+r_viewleaf          0x4               debugi386-glibc/ref_soft/r_main.o
+sw_mode             0x4               debugi386-glibc/ref_soft/r_main.o
+aliasycenter        0x4               debugi386-glibc/ref_soft/r_main.o
+a_tstepxfrac        0x4               debugi386-glibc/ref_soft/r_polyse.o
+r_edges             0x4               debugi386-glibc/ref_soft/r_edge.o
+r_skyedges          0x4               debugi386-glibc/ref_soft/r_rast.o
+r_notexture_mip     0x4               debugi386-glibc/ref_soft/r_main.o
+r_polycount         0x4               debugi386-glibc/ref_soft/r_main.o
+d_sfracbasestep     0x4               debugi386-glibc/ref_soft/r_polyse.o
+curhunksize         0x4               debugi386-glibc/ref_soft/q_shlinux.o
+r_amodels_drawn     0x4               debugi386-glibc/ref_soft/r_alias.o
+r_u1                0x4               debugi386-glibc/ref_soft/r_rast.o
+lightdelta          0x4               debugi386-glibc/ref_soft/r_surf.o
+d_initial_rover     0x4               debugi386-glibc/ref_soft/r_misc.o
+VGA_planar          0x4               debugi386-glibc/ref_soft/rw_svgalib.o
+loadname            0x20              debugi386-glibc/ref_soft/r_model.o
+view_clipplanes     0x60              debugi386-glibc/ref_soft/r_rast.o
+r_speeds            0x4               debugi386-glibc/ref_soft/r_main.o
+modfilelen          0x4               debugi386-glibc/ref_soft/r_model.o
+current_iv          0x4               debugi386-glibc/ref_soft/r_edge.o
+edge_tail           0x20              debugi386-glibc/ref_soft/r_edge.o
+scale_for_mip       0x4               debugi386-glibc/ref_soft/r_edge.o
+base_vpn            0xc               debugi386-glibc/ref_soft/r_main.o
+d_vrectright_particle
+                    0x4               debugi386-glibc/ref_soft/r_misc.o
+ycenter             0x4               debugi386-glibc/ref_soft/r_main.o
+r_nearzi            0x4               debugi386-glibc/ref_soft/r_rast.o
+base_vup            0xc               debugi386-glibc/ref_soft/r_main.o
+da_time1            0x4               debugi386-glibc/ref_soft/r_main.o
+d_zi                0x4               debugi386-glibc/ref_soft/r_polyse.o
+pbasesource         0x4               debugi386-glibc/ref_soft/r_surf.o
+world_transformed_modelorg
+                    0xc               debugi386-glibc/ref_soft/r_edge.o
+pcurrentcache       0x4               debugi386-glibc/ref_soft/r_edge.o
+r_currentkey        0x4               debugi386-glibc/ref_soft/r_edge.o
+sourcetstep         0x4               debugi386-glibc/ref_soft/r_surf.o
+sw_draworder        0x4               debugi386-glibc/ref_soft/r_main.o
+skintable           0x780             debugi386-glibc/ref_soft/r_polyse.o
+r_skysurfedges      0x4               debugi386-glibc/ref_soft/r_rast.o
+r_ceilv1            0x4               debugi386-glibc/ref_soft/r_rast.o
+membase             0x4               debugi386-glibc/ref_soft/q_shlinux.o
+r_warpbuffer        0x12c00           debugi386-glibc/ref_soft/r_main.o
+dp_time2            0x4               debugi386-glibc/ref_soft/r_main.o
+r_p2                0x18              debugi386-glibc/ref_soft/r_polyse.o
+sw_reportsurfout    0x4               debugi386-glibc/ref_soft/r_main.o
+skyrotate           0x4               debugi386-glibc/ref_soft/r_main.o
+d_minmip            0x4               debugi386-glibc/ref_soft/r_misc.o
+surfrowbytes        0x4               debugi386-glibc/ref_soft/r_surf.o
+sw_maxsurfs         0x4               debugi386-glibc/ref_soft/r_main.o
+r_skyframe          0x4               debugi386-glibc/ref_soft/r_rast.o
+r_affinetridesc     0x2c              debugi386-glibc/ref_soft/r_alias.o
+zspantable          0x12c0            debugi386-glibc/ref_soft/r_misc.o
+d_ptexbasestep      0x4               debugi386-glibc/ref_soft/r_polyse.o
+a_ststepxwhole      0x4               debugi386-glibc/ref_soft/r_polyse.o
+sw_maxedges         0x4               debugi386-glibc/ref_soft/r_main.o
+d_zibasestep        0x4               debugi386-glibc/ref_soft/r_polyse.o
+xcenter             0x4               debugi386-glibc/ref_soft/r_main.o
+d_scantable         0x12c0            debugi386-glibc/ref_soft/r_misc.o
+surf_max            0x4               debugi386-glibc/ref_soft/r_edge.o
+r_clipflags         0x4               debugi386-glibc/ref_soft/r_main.o
+d_vrecty            0x4               debugi386-glibc/ref_soft/r_misc.o
+ri                  0x40              debugi386-glibc/ref_soft/r_main.o
+sw_lockpvs          0x4               debugi386-glibc/ref_soft/r_main.o
+framebuffer_ptr     0x4               debugi386-glibc/ref_soft/rw_svgalib.o
+pfrustum_indexes    0x10              debugi386-glibc/ref_soft/r_main.o
+r_sstepx            0x4               debugi386-glibc/ref_soft/r_polyse.o
+VGA_width           0x4               debugi386-glibc/ref_soft/rw_svgalib.o
+c_faceclip          0x4               debugi386-glibc/ref_soft/r_rast.o
+blocklights         0x1000            debugi386-glibc/ref_soft/r_light.o
+r_ambientlight      0x4               debugi386-glibc/ref_soft/r_alias.o
+r_polydesc          0x58              debugi386-glibc/ref_soft/r_poly.o
+r_lastframe         0x4               debugi386-glibc/ref_soft/r_alias.o
+r_lstepx            0x4               debugi386-glibc/ref_soft/r_polyse.o
+skinstart           0x4               debugi386-glibc/ref_soft/r_polyse.o
+r_numhblocks        0x4               debugi386-glibc/ref_soft/r_surf.o
+mod_base            0x4               debugi386-glibc/ref_soft/r_model.o
+r_drawsurf          0x2c              debugi386-glibc/ref_soft/r_surf.o
+se_time1            0x4               debugi386-glibc/ref_soft/r_main.o
+r_numvblocks        0x4               debugi386-glibc/ref_soft/r_surf.o
+VGA_height          0x4               debugi386-glibc/ref_soft/rw_svgalib.o
+loadmodel           0x4               debugi386-glibc/ref_soft/r_model.o
+r_fullbright        0x4               debugi386-glibc/ref_soft/r_main.o
+removeedges         0x12c0            debugi386-glibc/ref_soft/r_edge.o
+skyname             0x40              debugi386-glibc/ref_soft/r_main.o
+d_aspancount        0x4               debugi386-glibc/ref_soft/r_polyse.o
+blockdivshift       0x4               debugi386-glibc/ref_soft/r_surf.o
+d_scalemip          0xc               debugi386-glibc/ref_soft/r_misc.o
+r_skytexinfo        0x138             debugi386-glibc/ref_soft/r_rast.o
+vup                 0xc               debugi386-glibc/ref_soft/r_main.o
+aliasbatchedtransformdata
+                    0x10              debugi386-glibc/ref_soft/r_alias.o
+d_pix_shift         0x4               debugi386-glibc/ref_soft/r_misc.o
+r_alpha_surfaces    0x4               debugi386-glibc/ref_soft/r_poly.o
+sky_images          0x18              debugi386-glibc/ref_soft/r_main.o
+sc_base             0x4               debugi386-glibc/ref_soft/r_surf.o
+r_frustum_indexes   0x60              debugi386-glibc/ref_soft/r_main.o
+r_lightwidth        0x4               debugi386-glibc/ref_soft/r_surf.o
+i                   0x4               debugi386-glibc/ref_soft/q_shared.o
+r_pup               0xc               debugi386-glibc/ref_soft/r_part.o
+erroradjustup       0x4               debugi386-glibc/ref_soft/r_edge.o
+blocksize           0x4               debugi386-glibc/ref_soft/r_surf.o
+sourcesstep         0x4               debugi386-glibc/ref_soft/r_surf.o
+d_pcolormap         0x4               debugi386-glibc/ref_soft/r_polyse.o
+d_aflatcolor        0x4               debugi386-glibc/ref_soft/r_polyse.o
+r_newrefdef         0x68              debugi386-glibc/ref_soft/r_main.o
+r_worldmodel        0x4               debugi386-glibc/ref_soft/r_main.o
+d_pzextrastep       0x4               debugi386-glibc/ref_soft/r_polyse.o
+r_screenwidth       0x4               debugi386-glibc/ref_soft/r_main.o
+r_drawnpolycount    0x4               debugi386-glibc/ref_soft/r_main.o
+d_ptexextrastep     0x4               debugi386-glibc/ref_soft/r_polyse.o
+r_leaftovis         0x40000           debugi386-glibc/ref_soft/r_model.o
+da_time2            0x4               debugi386-glibc/ref_soft/r_main.o
+lightrightstep      0x4               debugi386-glibc/ref_soft/r_surf.o
+_BigFloat           0x4               debugi386-glibc/ref_soft/q_shared.o
+prowdestbase        0x4               debugi386-glibc/ref_soft/r_surf.o
+sw_allow_modex      0x4               debugi386-glibc/ref_soft/r_main.o
+pedgetable          0x4               debugi386-glibc/ref_soft/r_polyse.o
+blanktable          0x1400            debugi386-glibc/ref_soft/r_rast.o
+Key_Event_fp        0x4               debugi386-glibc/ref_soft/rw_in_svgalib.o
+modelorg            0xc               debugi386-glibc/ref_soft/r_bsp.o
+r_currentbkey       0x4               debugi386-glibc/ref_soft/r_bsp.o
+r_images            0x19000           debugi386-glibc/ref_soft/r_image.o
+mod_numknown        0x4               debugi386-glibc/ref_soft/r_model.o
+r_notexture_buffer  0x400             debugi386-glibc/ref_soft/r_main.o
+span_p              0x4               debugi386-glibc/ref_soft/r_edge.o
+r_numallocatededges
+                    0x4               debugi386-glibc/ref_soft/r_main.o
+c_drawnode          0x4               debugi386-glibc/ref_soft/r_bsp.o
+r_skyfaces          0x4               debugi386-glibc/ref_soft/r_rast.o
+r_pedge             0x4               debugi386-glibc/ref_soft/r_rast.o
+d_lightextrastep    0x4               debugi386-glibc/ref_soft/r_polyse.o
+yscaleinv           0x4               debugi386-glibc/ref_soft/r_main.o
+paged_total         0x4               debugi386-glibc/ref_soft/q_shared.o
+r_p1                0x18              debugi386-glibc/ref_soft/r_polyse.o
+r_numvisleafs       0x4               debugi386-glibc/ref_soft/r_model.o
+sw_aliasstats       0x4               debugi386-glibc/ref_soft/r_main.o
+d_pdestbasestep     0x4               debugi386-glibc/ref_soft/r_polyse.o
+a_spans             0x4               debugi386-glibc/ref_soft/r_polyse.o
+d_tfracbasestep     0x4               debugi386-glibc/ref_soft/r_polyse.o
+d_pdrawspans        0x4               debugi386-glibc/ref_soft/r_polyse.o
+d_spanpixcount      0x4               debugi386-glibc/ref_soft/r_main.o
+r_turb_tstep        0x4               debugi386-glibc/ref_soft/r_scan.o
+r_lastvertvalid     0x4               debugi386-glibc/ref_soft/r_rast.o
+c_surf              0x4               debugi386-glibc/ref_soft/r_main.o
+lightspot           0xc               debugi386-glibc/ref_soft/r_light.o
+r_v1                0x4               debugi386-glibc/ref_soft/r_rast.o
+edge_p              0x4               debugi386-glibc/ref_soft/r_edge.o
+r_turb_turb         0x4               debugi386-glibc/ref_soft/r_scan.o
+sc_rover            0x4               debugi386-glibc/ref_soft/r_surf.o
+sw_waterwarp        0x4               debugi386-glibc/ref_soft/r_main.o
+yscaleshrink        0x4               debugi386-glibc/ref_soft/r_main.o
+r_lzi1              0x4               debugi386-glibc/ref_soft/r_rast.o
+_LittleFloat        0x4               debugi386-glibc/ref_soft/q_shared.o
+d_vrectx            0x4               debugi386-glibc/ref_soft/r_misc.o
+r_novis             0x4               debugi386-glibc/ref_soft/r_main.o
+d_pdest             0x4               debugi386-glibc/ref_soft/r_polyse.o
+d_ptex              0x4               debugi386-glibc/ref_soft/r_polyse.o
+mod_inline          0x17000           debugi386-glibc/ref_soft/r_model.o
+r_shadelight        0x4               debugi386-glibc/ref_soft/r_alias.o
+edge_aftertail      0x20              debugi386-glibc/ref_soft/r_edge.o
+r_visframecount     0x4               debugi386-glibc/ref_soft/r_main.o
+r_outofedges        0x4               debugi386-glibc/ref_soft/r_main.o
+numr_images         0x4               debugi386-glibc/ref_soft/r_image.o
+r_lerped            0x3000            debugi386-glibc/ref_soft/r_alias.o
+r_rightenter        0xc               debugi386-glibc/ref_soft/r_rast.o
+currentmodel        0x4               debugi386-glibc/ref_soft/r_main.o
+screenedge          0x50              debugi386-glibc/ref_soft/r_main.o
+r_time1             0x4               debugi386-glibc/ref_soft/r_main.o
+local_modelorg      0xc               debugi386-glibc/ref_soft/r_edge.o
+r_oldviewcluster    0x4               debugi386-glibc/ref_soft/r_main.o
+r_refdef            0x8c              debugi386-glibc/ref_soft/r_main.o
+currententity       0x4               debugi386-glibc/ref_soft/r_bsp.o
+base_vright         0xc               debugi386-glibc/ref_soft/r_main.o
+vright              0xc               debugi386-glibc/ref_soft/r_main.o
+r_thisframe         0x4               debugi386-glibc/ref_soft/r_alias.o
+aliastriangleparms  0xc               debugi386-glibc/ref_soft/r_polyse.o
+r_turb_pbase        0x4               debugi386-glibc/ref_soft/r_scan.o
+r_tstepy            0x4               debugi386-glibc/ref_soft/r_polyse.o
+yOrigin             0x4               debugi386-glibc/ref_soft/r_main.o
+vid                 0x18              debugi386-glibc/ref_soft/r_main.o
+r_entorigin         0xc               debugi386-glibc/ref_soft/r_bsp.o
+registration_sequence
+                    0x4               debugi386-glibc/ref_soft/r_model.o
+rw_time1            0x4               debugi386-glibc/ref_soft/r_main.o
+world_clipplanes    0x180             debugi386-glibc/ref_soft/r_rast.o
+cacheoffset         0x4               debugi386-glibc/ref_soft/r_rast.o
+d_tfrac             0x4               debugi386-glibc/ref_soft/r_polyse.o
+r_leftexit          0xc               debugi386-glibc/ref_soft/r_rast.o
+r_drawentities      0x4               debugi386-glibc/ref_soft/r_main.o
+num_modes           0x4               debugi386-glibc/ref_soft/rw_svgalib.o
+d_pdestextrastep    0x4               debugi386-glibc/ref_soft/r_polyse.o
+colormap            0x4               debugi386-glibc/ref_soft/r_main.o
+_BigShort           0x4               debugi386-glibc/ref_soft/q_shared.o
+db_time1            0x4               debugi386-glibc/ref_soft/r_main.o
+r_pcurrentvertbase  0x4               debugi386-glibc/ref_soft/r_main.o
+sintable            0x1400            debugi386-glibc/ref_soft/r_rast.o
+r_sourcemax         0x4               debugi386-glibc/ref_soft/r_surf.o
+sw_state            0x508             debugi386-glibc/ref_soft/r_main.o
+d_pzbasestep        0x4               debugi386-glibc/ref_soft/r_polyse.o
+viewlightvec        0xc               debugi386-glibc/ref_soft/r_main.o
+errorterm           0x4               debugi386-glibc/ref_soft/r_edge.o
+skyaxis             0xc               debugi386-glibc/ref_soft/r_main.o
+r_dspeeds           0x4               debugi386-glibc/ref_soft/r_main.o
+lightleftstep       0x4               debugi386-glibc/ref_soft/r_surf.o
+entity_rotation     0x24              debugi386-glibc/ref_soft/r_bsp.o
+r_origin            0xc               debugi386-glibc/ref_soft/r_main.o
+entity_clipplanes   0x4               debugi386-glibc/ref_soft/r_rast.o
+sc_size             0x4               debugi386-glibc/ref_soft/r_surf.o
+r_skyplanes         0x78              debugi386-glibc/ref_soft/r_rast.o
+d_countextrastep    0x4               debugi386-glibc/ref_soft/r_polyse.o
+r_maxsurfsseen      0x4               debugi386-glibc/ref_soft/r_main.o
+aliasyscale         0x4               debugi386-glibc/ref_soft/r_main.o
+auxedges            0x4               debugi386-glibc/ref_soft/r_edge.o
+de_time1            0x4               debugi386-glibc/ref_soft/r_main.o
+draw_chars          0x4               debugi386-glibc/ref_soft/r_draw.o
+s_spanletvars       0x34              debugi386-glibc/ref_soft/r_poly.o
+r_aliasblendcolor   0x4               debugi386-glibc/ref_soft/r_alias.o
+r_maxedgesseen      0x4               debugi386-glibc/ref_soft/r_main.o
+d_sfrac             0x4               debugi386-glibc/ref_soft/r_polyse.o
+r_skyverts          0x4               debugi386-glibc/ref_soft/r_rast.o
+bigendien           0x4               debugi386-glibc/ref_soft/q_shared.o
+r_emitted           0x4               debugi386-glibc/ref_soft/r_rast.o
+lightleft           0x4               debugi386-glibc/ref_soft/r_surf.o
+r_vistoleaf         0x40000           debugi386-glibc/ref_soft/r_model.o
+VGA_pagebase        0x4               debugi386-glibc/ref_soft/rw_svgalib.o
+erroradjustdown     0x4               debugi386-glibc/ref_soft/r_edge.o
+r_p0                0x18              debugi386-glibc/ref_soft/r_polyse.o
+r_nearzionly        0x4               debugi386-glibc/ref_soft/r_rast.o
+pface               0x4               debugi386-glibc/ref_soft/r_edge.o
+r_dlightframecount  0x4               debugi386-glibc/ref_soft/r_light.o
+surfscale           0x4               debugi386-glibc/ref_soft/r_surf.o
+mod_novis           0x2000            debugi386-glibc/ref_soft/r_model.o
+mod_known           0x17000           debugi386-glibc/ref_soft/r_model.o
+r_source            0x4               debugi386-glibc/ref_soft/r_surf.o
+maxhunksize         0x4               debugi386-glibc/ref_soft/q_shlinux.o
+curtime             0x4               debugi386-glibc/ref_soft/q_shlinux.o
+intsintable         0x1400            debugi386-glibc/ref_soft/r_rast.o
+edge_sentinel       0x20              debugi386-glibc/ref_soft/r_edge.o
+edge_max            0x4               debugi386-glibc/ref_soft/r_edge.o
+r_lerpmodels        0x4               debugi386-glibc/ref_soft/r_main.o
+d_sfracextrastep    0x4               debugi386-glibc/ref_soft/r_polyse.o
+d_8to24table        0x400             debugi386-glibc/ref_soft/r_main.o
+_LittleShort        0x4               debugi386-glibc/ref_soft/q_shared.o
+edge_tail_u_shift20
+                    0x4               debugi386-glibc/ref_soft/r_edge.o
+d_pz                0x4               debugi386-glibc/ref_soft/r_polyse.o
+r_lerp_move         0xc               debugi386-glibc/ref_soft/r_alias.o
+yscale              0x4               debugi386-glibc/ref_soft/r_main.o
+d_tfracextrastep    0x4               debugi386-glibc/ref_soft/r_polyse.o
+r_zistepy           0x4               debugi386-glibc/ref_soft/r_polyse.o
+sw_surfcacheoverride
+                    0x4               debugi386-glibc/ref_soft/r_main.o
+xOrigin             0x4               debugi386-glibc/ref_soft/r_main.o
+newedges            0x12c0            debugi386-glibc/ref_soft/r_edge.o
+lightplane          0x4               debugi386-glibc/ref_soft/r_light.o
+aliasxcenter        0x4               debugi386-glibc/ref_soft/r_main.o
+r_lerp_frontv       0xc               debugi386-glibc/ref_soft/r_alias.o
+aliastransform      0x30              debugi386-glibc/ref_soft/r_alias.o
+sw_mipscale         0x4               debugi386-glibc/ref_soft/r_misc.o
+sw_stipplealpha     0x4               debugi386-glibc/ref_soft/r_main.o
+lightdeltastep      0x4               debugi386-glibc/ref_soft/r_surf.o
+alias_colormap      0x4               debugi386-glibc/ref_soft/r_misc.o
+_BigLong            0x4               debugi386-glibc/ref_soft/q_shared.o
+max_span_p          0x4               debugi386-glibc/ref_soft/r_edge.o
+VGA_rowbytes        0x4               debugi386-glibc/ref_soft/rw_svgalib.o
+r_lerp_backv        0xc               debugi386-glibc/ref_soft/r_alias.o
+r_tstepx            0x4               debugi386-glibc/ref_soft/r_polyse.o
+skinwidth           0x4               debugi386-glibc/ref_soft/r_polyse.o
+r_drawworld         0x4               debugi386-glibc/ref_soft/r_main.o
+aliasoldworldtransform
+                    0x30              debugi386-glibc/ref_soft/r_alias.o
+r_viewcluster       0x4               debugi386-glibc/ref_soft/r_main.o
+r_rightexit         0xc               debugi386-glibc/ref_soft/r_rast.o
+r_lightptr          0x4               debugi386-glibc/ref_soft/r_surf.o
+r_wholepolycount    0x4               debugi386-glibc/ref_soft/r_main.o
+d_ziextrastep       0x4               debugi386-glibc/ref_soft/r_polyse.o
+fv                  0x4               debugi386-glibc/ref_soft/r_edge.o
+rw_time2            0x4               debugi386-glibc/ref_soft/r_main.o
+r_rightclipped      0x4               debugi386-glibc/ref_soft/r_rast.o
+r_turb_spancount    0x4               debugi386-glibc/ref_soft/r_scan.o
+r_turb_s            0x4               debugi386-glibc/ref_soft/r_scan.o
+aliasxscale         0x4               debugi386-glibc/ref_soft/r_main.o
+r_ppn               0xc               debugi386-glibc/ref_soft/r_part.o
+r_turb_pdest        0x4               debugi386-glibc/ref_soft/r_scan.o
+r_worldentity       0x48              debugi386-glibc/ref_soft/r_main.o
+db_time2            0x4               debugi386-glibc/ref_soft/r_main.o
+
+Discarded input sections
+
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/i486-linux-gnu/4.2.4/../../../../lib/crti.o
+ __i686.get_pc_thunk.bx
+                0x0000000000000000        0x0 /usr/lib/gcc/i486-linux-gnu/4.2.4/crtbeginS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/i486-linux-gnu/4.2.4/crtbeginS.o
+ __i686.get_pc_thunk.bx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_aclip.o
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_aclip.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_aclip.o
+ __i686.get_pc_thunk.cx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_alias.o
+ __i686.get_pc_thunk.bx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_alias.o
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_alias.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_alias.o
+ __i686.get_pc_thunk.cx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_bsp.o
+ __i686.get_pc_thunk.bx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_bsp.o
+ .text.__i686.get_pc_thunk.cx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_bsp.o
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_bsp.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_bsp.o
+ __i686.get_pc_thunk.cx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_draw.o
+ __i686.get_pc_thunk.bx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_draw.o
+ .text.__i686.get_pc_thunk.cx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_draw.o
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_draw.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_draw.o
+ __i686.get_pc_thunk.cx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_edge.o
+ __i686.get_pc_thunk.bx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_edge.o
+ .text.__i686.get_pc_thunk.cx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_edge.o
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_edge.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_edge.o
+ __i686.get_pc_thunk.cx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_image.o
+ __i686.get_pc_thunk.bx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_image.o
+ .text.__i686.get_pc_thunk.cx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_image.o
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_image.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_image.o
+ __i686.get_pc_thunk.bx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_light.o
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_light.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_light.o
+ __i686.get_pc_thunk.bx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_main.o
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_main.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_main.o
+ __i686.get_pc_thunk.bx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_misc.o
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_misc.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_misc.o
+ __i686.get_pc_thunk.cx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_model.o
+ __i686.get_pc_thunk.bx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_model.o
+ .text.__i686.get_pc_thunk.cx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_model.o
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_model.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_model.o
+ __i686.get_pc_thunk.cx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_part.o
+ __i686.get_pc_thunk.bx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_part.o
+ .text.__i686.get_pc_thunk.cx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_part.o
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_part.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_part.o
+ __i686.get_pc_thunk.cx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_poly.o
+ __i686.get_pc_thunk.bx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_poly.o
+ .text.__i686.get_pc_thunk.cx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_poly.o
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_poly.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_poly.o
+ __i686.get_pc_thunk.cx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_polyse.o
+ __i686.get_pc_thunk.bx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_polyse.o
+ .text.__i686.get_pc_thunk.cx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_polyse.o
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_polyse.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_polyse.o
+ __i686.get_pc_thunk.bx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_rast.o
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_rast.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_rast.o
+ __i686.get_pc_thunk.bx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_scan.o
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_scan.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_scan.o
+ __i686.get_pc_thunk.bx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_sprite.o
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_sprite.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_sprite.o
+ __i686.get_pc_thunk.cx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_surf.o
+ __i686.get_pc_thunk.bx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_surf.o
+ .text.__i686.get_pc_thunk.cx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_surf.o
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_surf.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/r_surf.o
+ __i686.get_pc_thunk.cx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/q_shared.o
+ __i686.get_pc_thunk.bx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/q_shared.o
+ .text.__i686.get_pc_thunk.cx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/q_shared.o
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/q_shared.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/q_shared.o
+ __i686.get_pc_thunk.bx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/q_shlinux.o
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/q_shlinux.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/q_shlinux.o
+ __i686.get_pc_thunk.bx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/glob.o
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/glob.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/glob.o
+ __i686.get_pc_thunk.cx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/rw_svgalib.o
+ __i686.get_pc_thunk.bx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/rw_svgalib.o
+ .text.__i686.get_pc_thunk.cx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/rw_svgalib.o
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/rw_svgalib.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/rw_svgalib.o
+ __i686.get_pc_thunk.cx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/rw_in_svgalib.o
+ __i686.get_pc_thunk.bx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/rw_in_svgalib.o
+ .text.__i686.get_pc_thunk.cx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/rw_in_svgalib.o
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/rw_in_svgalib.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 debugi386-glibc/ref_soft/rw_in_svgalib.o
+ __i686.get_pc_thunk.bx
+                0x0000000000000000        0x0 /usr/lib/libc_nonshared.a(stack_chk_fail_local.oS)
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x0 /usr/lib/libc_nonshared.a(stack_chk_fail_local.oS)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/libc_nonshared.a(stack_chk_fail_local.oS)
+ __i686.get_pc_thunk.bx
+                0x0000000000000000        0x0 /usr/lib/gcc/i486-linux-gnu/4.2.4/crtendS.o
+ .text.__i686.get_pc_thunk.bx
+                0x0000000000000000        0x0 /usr/lib/gcc/i486-linux-gnu/4.2.4/crtendS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/i486-linux-gnu/4.2.4/crtendS.o
+ .note.GNU-stack
+                0x0000000000000000        0x0 /usr/lib/gcc/i486-linux-gnu/4.2.4/../../../../lib/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/gcc/i486-linux-gnu/4.2.4/../../../../lib/crti.o
+LOAD /usr/lib/gcc/i486-linux-gnu/4.2.4/crtbeginS.o
+LOAD debugi386-glibc/ref_soft/r_aclip.o
+LOAD debugi386-glibc/ref_soft/r_alias.o
+LOAD debugi386-glibc/ref_soft/r_bsp.o
+LOAD debugi386-glibc/ref_soft/r_draw.o
+LOAD debugi386-glibc/ref_soft/r_edge.o
+LOAD debugi386-glibc/ref_soft/r_image.o
+LOAD debugi386-glibc/ref_soft/r_light.o
+LOAD debugi386-glibc/ref_soft/r_main.o
+LOAD debugi386-glibc/ref_soft/r_misc.o
+LOAD debugi386-glibc/ref_soft/r_model.o
+LOAD debugi386-glibc/ref_soft/r_part.o
+LOAD debugi386-glibc/ref_soft/r_poly.o
+LOAD debugi386-glibc/ref_soft/r_polyse.o
+LOAD debugi386-glibc/ref_soft/r_rast.o
+LOAD debugi386-glibc/ref_soft/r_scan.o
+LOAD debugi386-glibc/ref_soft/r_sprite.o
+LOAD debugi386-glibc/ref_soft/r_surf.o
+LOAD debugi386-glibc/ref_soft/r_aclipa.o
+LOAD debugi386-glibc/ref_soft/r_draw16.o
+LOAD debugi386-glibc/ref_soft/r_drawa.o
+LOAD debugi386-glibc/ref_soft/r_edgea.o
+LOAD debugi386-glibc/ref_soft/r_scana.o
+LOAD debugi386-glibc/ref_soft/r_spr8.o
+LOAD debugi386-glibc/ref_soft/r_surf8.o
+LOAD debugi386-glibc/ref_soft/math.o
+LOAD debugi386-glibc/ref_soft/d_polysa.o
+LOAD debugi386-glibc/ref_soft/r_varsa.o
+LOAD debugi386-glibc/ref_soft/sys_dosa.o
+LOAD debugi386-glibc/ref_soft/q_shared.o
+LOAD debugi386-glibc/ref_soft/q_shlinux.o
+LOAD debugi386-glibc/ref_soft/glob.o
+LOAD debugi386-glibc/ref_soft/rw_svgalib.o
+LOAD debugi386-glibc/ref_soft/d_copy.o
+LOAD debugi386-glibc/ref_soft/rw_in_svgalib.o
+LOAD /usr/lib/gcc/i486-linux-gnu/4.2.4/../../../../lib/libvga.so
+LOAD /usr/lib/gcc/i486-linux-gnu/4.2.4/../../../../lib/libm.so
+LOAD /usr/lib/gcc/i486-linux-gnu/4.2.4/libgcc.a
+LOAD /usr/lib/gcc/i486-linux-gnu/4.2.4/libgcc_s.so
+LOAD /usr/lib/gcc/i486-linux-gnu/4.2.4/../../../../lib/libc.so
+START GROUP
+LOAD /lib/libc.so.6
+LOAD /usr/lib/libc_nonshared.a
+LOAD /lib/ld-linux.so.2
+END GROUP
+LOAD /usr/lib/gcc/i486-linux-gnu/4.2.4/libgcc.a
+LOAD /usr/lib/gcc/i486-linux-gnu/4.2.4/libgcc_s.so
+LOAD /usr/lib/gcc/i486-linux-gnu/4.2.4/crtendS.o
+LOAD /usr/lib/gcc/i486-linux-gnu/4.2.4/../../../../lib/crtn.o
+                0x00000000000000b4                . = (0x0 + SIZEOF_HEADERS)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash           0x00000000000000b4     0x1524
+ *(.hash)
+ .hash          0x00000000000000b4     0x1524 /usr/lib/gcc/i486-linux-gnu/4.2.4/../../../../lib/crti.o
+
+.gnu.hash       0x00000000000015d8     0x1628
+ *(.gnu.hash)
+ .gnu.hash      0x00000000000015d8     0x1628 /usr/lib/gcc/i486-linux-gnu/4.2.4/../../../../lib/crti.o
+
+.dynsym         0x0000000000002c00     0x33e0
+ *(.dynsym)
+ .dynsym        0x0000000000002c00     0x33e0 /usr/lib/gcc/i486-linux-gnu/4.2.4/../../../../lib/crti.o
+
+.dynstr         0x0000000000005fe0     0x29d9
+ *(.dynstr)
+ .dynstr        0x0000000000005fe0     0x29d9 /usr/lib/gcc/i486-linux-gnu/4.2.4/../../../../lib/crti.o
+
+.gnu.version    0x00000000000089ba      0x67c
+ *(.gnu.version)
+ .gnu.version   0x00000000000089ba      0x67c /usr/lib/gcc/i486-linux-gnu/4.2.4/../../../../lib/crti.o
+
+.gnu.version_d  0x0000000000009038        0x0 load address 0x0000000000009036
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x0000000000000000        0x0 /usr/lib/gcc/i486-linux-gnu/4.2.4/../../../../lib/crti.o
+
+.gnu.version_r  0x0000000000009038       0x70
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x0000000000009038       0x70 /usr/lib/gcc/i486-linux-gnu/4.2.4/../../../../lib/crti.o
+
+.rel.dyn        0x00000000000090a8     0x2ba0
+ *(.rel.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ .rel.text      0x00000000000090a8     0x1ab0 /usr/lib/gcc/i486-linux-gnu/4.2.4/../../../../lib/crti.o
+ *(.rel.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rel.data.rel.ro* .rel.gnu.linkonce.d.rel.ro.*)
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ .rel.data.rel  0x000000000000ab58      0x1e0 /usr/lib/gcc/i486-linux-gnu/4.2.4/../../../../lib/crti.o
+ .rel.data.rel.local
+                0x000000000000ad38       0x38 /usr/lib/gcc/i486-linux-gnu/4.2.4/../../../../lib/crti.o
+ .rel.data      0x000000000000ad70      0x1f0 /usr/lib/gcc/i486-linux-gnu/4.2.4/../../../../lib/crti.o
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rel.dtors)
+ *(.rel.got)
+ .rel.got       0x000000000000af60      0xce8 /usr/lib/gcc/i486-linux-gnu/4.2.4/../../../../lib/crti.o
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+
+.rela.dyn
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+
+.rel.plt        0x000000000000bc48      0x800
+ *(.rel.plt)
+ .rel.plt       0x000000000000bc48      0x800 /usr/lib/gcc/i486-linux-gnu/4.2.4/../../../../lib/crti.o
+
+.rela.plt
+ *(.rela.plt)
+
+.init           0x000000000000c448       0x30
+ *(.init)
+ .init          0x000000000000c448       0x22 /usr/lib/gcc/i486-linux-gnu/4.2.4/../../../../lib/crti.o
+                0x000000000000c448                _init
+ .init          0x000000000000c46a        0x5 /usr/lib/gcc/i486-linux-gnu/4.2.4/crtbeginS.o
+ .init          0x000000000000c46f        0x5 /usr/lib/gcc/i486-linux-gnu/4.2.4/crtendS.o
+ .init          0x000000000000c474        0x4 /usr/lib/gcc/i486-linux-gnu/4.2.4/../../../../lib/crtn.o
+
+.plt            0x000000000000c478     0x1010
+ *(.plt)
+ .plt           0x000000000000c478     0x1010 /usr/lib/gcc/i486-linux-gnu/4.2.4/../../../../lib/crti.o
+
+.text           0x000000000000d490    0x1f384
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x000000000000d490        0x0 /usr/lib/gcc/i486-linux-gnu/4.2.4/../../../../lib/crti.o
+ .text          0x000000000000d490       0x97 /usr/lib/gcc/i486-linux-gnu/4.2.4/crtbeginS.o
+ .text.__i686.get_pc_thunk.bx
+                0x000000000000d527        0x4 /usr/lib/gcc/i486-linux-gnu/4.2.4/crtbeginS.o
+                0x000000000000d527                __i686.get_pc_thunk.bx
+ *fill*         0x000000000000d52b        0x1 90909090
+ .text          0x000000000000d52c      0xa30 debugi386-glibc/ref_soft/r_aclip.o
+                0x000000000000d52c                R_Alias_clip_z
+                0x000000000000d911                R_AliasClipTriangle
+                0x000000000000d683                R_AliasClip
+ .text          0x000000000000df5c     0x1bb8 debugi386-glibc/ref_soft/r_alias.o
+                0x000000000000e832                R_AliasSetUpTransform
+                0x000000000000ebbc                R_AliasTransformFinalVerts
+                0x000000000000f758                R_AliasDrawModel
+                0x000000000000eeda                R_AliasProjectAndClipTestFinalVert
+                0x000000000000f559                R_AliasSetUpLerpData
+                0x000000000000e2c2                R_AliasTransformVector
+                0x000000000000e39c                R_AliasPreparePoints
+                0x000000000000f44b                R_AliasSetupFrames
+                0x000000000000f10b                R_AliasSetupLighting
+                0x000000000000df5c                R_AliasCheckFrameBBox
+                0x000000000000e1d8                R_AliasCheckBBox
+ .text.__i686.get_pc_thunk.cx
+                0x000000000000fb14        0x4 debugi386-glibc/ref_soft/r_alias.o
+                0x000000000000fb14                __i686.get_pc_thunk.cx
+ .text          0x000000000000fb18     0x12a1 debugi386-glibc/ref_soft/r_bsp.o
+                0x0000000000010376                R_DrawSolidClippedSubmodelPolygons
+                0x0000000000010ca9                R_RenderWorld
+                0x000000000000fbe7                R_RotateBmodel
+                0x000000000000fb18                R_EntityRotate
+                0x000000000001079a                R_RecursiveWorldNode
+                0x0000000000010688                R_DrawSubmodelPolygons
+                0x000000000000fe09                R_RecursiveClipBPoly
+ *fill*         0x0000000000010db9        0x3 90909090
+ .text          0x0000000000010dbc      0xbf1 debugi386-glibc/ref_soft/r_draw.o
+                0x0000000000010e92                Draw_Char
+                0x00000000000116d4                Draw_TileClear
+                0x00000000000110bf                Draw_StretchPicImplementation
+                0x0000000000010dbc                Draw_FindPic
+                0x0000000000010e62                Draw_InitLocal
+                0x0000000000011385                Draw_Pic
+                0x0000000000011294                Draw_StretchPic
+                0x0000000000011068                Draw_GetPicSize
+                0x0000000000011838                Draw_Fill
+                0x000000000001130c                Draw_StretchRaw
+                0x000000000001192a                Draw_FadeScreen
+ *fill*         0x00000000000119ad        0x3 90909090
+ .text          0x00000000000119b0     0x15f2 debugi386-glibc/ref_soft/r_edge.o
+                0x000000000001221c                D_MipLevelForScale
+                0x0000000000011ae6                R_CleanupSpan
+                0x0000000000011ddd                R_GenerateSpansBackward
+                0x0000000000011d02                R_TrailingEdge
+                0x00000000000126cc                D_BackgroundSurf
+                0x0000000000011b9e                R_LeadingEdgeBackwards
+                0x00000000000119b0                R_BeginEdgeFrame
+                0x0000000000012a8c                D_SolidSurf
+                0x0000000000011ea6                R_ScanEdges
+                0x00000000000129a4                D_SkySurf
+                0x00000000000122aa                D_FlatFillSurface
+                0x000000000001232f                D_CalcGradients
+                0x0000000000012daa                D_DrawSurfaces
+                0x0000000000012751                D_TurbulentSurf
+                0x0000000000012d15                D_DrawflatSurfaces
+ *fill*         0x0000000000012fa2        0x2 90909090
+ .text          0x0000000000012fa4     0x1182 debugi386-glibc/ref_soft/r_image.o
+                0x00000000000140b4                R_ShutdownImages
+                0x0000000000014098                R_InitImages
+                0x00000000000134a8                LoadTGA
+                0x0000000000013b35                GL_LoadPic
+                0x0000000000012fa4                R_ImageList_f
+                0x0000000000013df5                R_FindImage
+                0x0000000000013a8b                R_FindFreeImage
+                0x0000000000013fb7                R_RegisterSkin
+                0x0000000000013fe2                R_FreeUnusedImages
+                0x0000000000013140                LoadPCX
+                0x0000000000013c33                R_LoadWal
+ *fill*         0x0000000000014126        0x2 90909090
+ .text          0x0000000000014128      0xecc debugi386-glibc/ref_soft/r_light.o
+                0x00000000000142df                R_PushDlights
+                0x0000000000014831                R_LightPoint
+                0x0000000000014128                R_MarkLights
+                0x0000000000014a31                R_AddDynamicLights
+                0x0000000000014e31                R_BuildLightMap
+                0x0000000000014370                RecursiveLightPoint
+ .text          0x0000000000014ff4     0x3206 debugi386-glibc/ref_soft/r_main.o
+                0x0000000000017e3a                Draw_GetPalette
+                0x00000000000180d3                Sys_Error
+                0x0000000000017298                R_InitGraphics
+                0x00000000000163ba                R_FindTopnode
+                0x0000000000015a16                R_NewMap
+                0x0000000000017359                R_BeginFrame
+                0x0000000000016b64                R_EdgeDrawing
+                0x0000000000017689                R_CinematicSetPalette
+                0x0000000000016e79                R_SetLightLevel
+                0x0000000000015231                R_Register
+                0x000000000001596a                R_Shutdown
+                0x0000000000015ba7                R_MarkLeaves
+                0x0000000000015dcd                R_DrawEntitiesOnList
+                0x00000000000161c9                R_BmodelCheckBBox
+                0x000000000001785a                Draw_BuildGammaTable
+                0x000000000001676f                R_DrawBEntitiesOnList
+                0x0000000000015825                R_Init
+                0x0000000000016504                RotatedBBox
+                0x0000000000014ff4                R_InitTextures
+                0x0000000000016ce4                R_CalcPalette
+                0x00000000000157d1                R_UnRegister
+                0x0000000000016f0e                R_RenderFrame
+                0x000000000001513a                R_InitTurb
+                0x0000000000015dc8                R_DrawNullModel
+                0x0000000000017d26                R_SetSky
+                0x0000000000017952                R_DrawBeam
+                0x00000000000175a9                R_GammaCorrectAndSetPalette
+                0x0000000000017f6a                GetRefAPI
+                0x0000000000018166                Com_Printf
+ *fill*         0x00000000000181fa        0x2 90909090
+ .text          0x00000000000181fc     0x181c debugi386-glibc/ref_soft/r_misc.o
+                0x0000000000019722                R_ScreenShot_f
+                0x00000000000194b2                WritePCXfile
+                0x0000000000018737                R_PrintAliasStats
+                0x000000000001909e                R_SetupFrame
+                0x0000000000018605                R_PrintDSpeeds
+                0x0000000000018293                D_ViewChanged
+                0x0000000000018a67                R_ViewChanged
+                0x0000000000018777                R_TransformFrustum
+                0x000000000001855f                R_PrintTimes
+                0x00000000000181fc                D_Patch
+                0x0000000000018926                R_TransformPlane
+                0x0000000000018996                R_SetUpFrustumIndexes
+ .text          0x0000000000019a18     0x2d0b debugi386-glibc/ref_soft/r_model.o
+                0x000000000001a375                Mod_LoadVertexes
+                0x000000000001aa5f                CalcSurfaceExtents
+                0x000000000001c5c6                R_EndRegistration
+                0x000000000001bbfb                Mod_LoadAliasModel
+                0x000000000001a65e                Mod_LoadEdges
+                0x000000000001a4ac                Mod_LoadSubmodels
+                0x0000000000019e38                Mod_PointInLeaf
+                0x000000000001b0ea                Mod_LoadNodes
+                0x0000000000019fc4                Mod_ClusterPVS
+                0x000000000001a74e                Mod_LoadTexinfo
+                0x000000000001a187                R_NumberLeafs
+                0x0000000000019b1c                Mod_ForName
+                0x000000000001b8cd                Mod_LoadBrushModel
+                0x000000000001a02d                Mod_LoadLighting
+                0x000000000001a237                Mod_LoadVisibility
+                0x000000000001b661                Mod_LoadSurfedges
+                0x0000000000019f09                Mod_DecompressVis
+                0x000000000001c675                Mod_Free
+                0x000000000001b351                Mod_LoadLeafs
+                0x0000000000019a18                Mod_Modellist_f
+                0x000000000001c359                R_BeginRegistration
+                0x000000000001c45a                R_RegisterModel
+                0x000000000001b73b                Mod_LoadPlanes
+                0x000000000001c0ea                Mod_LoadSpriteModel
+                0x000000000001c6b9                Mod_FreeAll
+                0x000000000001b531                Mod_LoadMarksurfaces
+                0x000000000001ad2a                Mod_LoadFaces
+                0x0000000000019ae6                Mod_Init
+                0x000000000001b095                Mod_SetParent
+ *fill*         0x000000000001c723        0x1 90909090
+ .text          0x000000000001c724      0x5a8 debugi386-glibc/ref_soft/r_part.o
+                0x000000000001cba3                R_DrawParticles
+                0x000000000001c785                R_DrawParticle
+ .text          0x000000000001cccc     0x3211 debugi386-glibc/ref_soft/r_poly.o
+                0x000000000001e1bd                R_ClipPolyFace
+                0x000000000001d9ae                R_DrawSpanletConstant33
+                0x000000000001ce17                R_DrawSpanletTurbulentStipple33
+                0x000000000001d855                R_DrawSpanlet33
+                0x000000000001d51e                R_DrawSpanletTurbulentBlended66
+                0x000000000001eb1b                R_PolygonScanLeftEdge
+                0x000000000001fc45                R_IMFlatShadedQuad
+                0x000000000001da85                R_DrawSpanlet66
+                0x000000000001cccc                R_DrawSpanletOpaque
+                0x000000000001eccd                R_PolygonScanRightEdge
+                0x000000000001d6bd                R_DrawSpanletTurbulentBlended33
+                0x000000000001ef7e                R_ClipAndDrawPoly
+                0x000000000001fb4e                R_DrawAlphaSurfaces
+                0x000000000001f702                R_PolygonCalculateGradients
+                0x000000000001e494                R_PolygonDrawSpans
+                0x000000000001d0bb                R_DrawSpanletTurbulentStipple66
+                0x000000000001de60                R_DrawSpanlet66Stipple
+                0x000000000001dbe5                R_DrawSpanlet33Stipple
+                0x000000000001f2c1                R_BuildPolygonFromSurface
+ *fill*         0x000000000001fedd        0x3 90909090
+ .text          0x000000000001fee0     0x244e debugi386-glibc/ref_soft/r_polyse.o
+                0x000000000002104b                R_PolysetDrawSpans8_66
+                0x0000000000020784                R_PolysetCalcGradients
+                0x000000000001ff7f                R_DrawTriangle
+                0x00000000000213d6                R_RasterizeAliasPolySmooth
+                0x0000000000020f14                R_PolysetDrawSpansConstant8_33
+                0x000000000002123b                R_PolysetDrawSpansConstant8_66
+                0x000000000002068f                R_PolysetSetUpForLineScan
+                0x0000000000020b37                R_PolysetDrawThreshSpans8
+                0x00000000000201e5                R_PolysetScanLeftEdge_C
+                0x0000000000020584                FloorDivMod
+                0x0000000000021372                R_PolysetFillSpans8
+                0x000000000001fee0                R_PolysetUpdateTables
+                0x00000000000221b3                R_PolysetSetEdgeTable
+                0x0000000000020d37                R_PolysetDrawSpans8_33
+ *fill*         0x000000000002232e        0x2 90909090
+ .text          0x0000000000022330     0x151d debugi386-glibc/ref_soft/r_rast.o
+                0x0000000000022cd3                R_RenderFace
+                0x0000000000023443                R_RenderBmodelFace
+                0x000000000002294a                R_EmitSkyBox
+                0x0000000000022c19                R_EmitCachedEdge
+                0x0000000000022330                R_InitSkyBox
+ *fill*         0x000000000002384d        0x3 90909090
+ .text          0x0000000000023850      0xd37 debugi386-glibc/ref_soft/r_scan.o
+                0x0000000000024071                NonTurbulent8
+                0x0000000000023850                D_WarpScreen
+                0x0000000000023b25                Turbulent8
+ *fill*         0x0000000000024587        0x1 90909090
+ .text          0x0000000000024588      0x4f4 debugi386-glibc/ref_soft/r_sprite.o
+                0x0000000000024588                R_DrawSprite
+ .text          0x0000000000024a7c      0xbef debugi386-glibc/ref_soft/r_surf.o
+                0x0000000000025325                D_CacheSurface
+                0x0000000000024ae7                R_DrawSurface
+                0x00000000000252b3                MaskForNum
+                0x0000000000025304                D_log2
+                0x0000000000025220                D_SCDump
+                0x0000000000024e9c                D_FlushCaches
+                0x0000000000024d6e                R_InitCaches
+                0x0000000000024f2c                D_SCAlloc
+                0x0000000000024a7c                R_TextureAnimation
+ *fill*         0x000000000002566b        0x1 90909090
+ .text          0x000000000002566c      0x106 debugi386-glibc/ref_soft/r_aclipa.o
+                0x0000000000025761                R_Alias_clip_left
+                0x000000000002566c                R_Alias_clip_bottom
+                0x000000000002571f                R_Alias_clip_top
+                0x0000000000025733                R_Alias_clip_right
+ *fill*         0x0000000000025772        0x2 90909090
+ .text          0x0000000000025774      0xb3c debugi386-glibc/ref_soft/r_draw16.o
+                0x00000000000257f0                D_DrawSpans16
+                0x0000000000025f22                Entry15_16
+                0x0000000000025e20                Entry6_16
+                0x0000000000025eeb                Entry13_16
+                0x0000000000025e94                Entry10_16
+                0x0000000000025e5a                Entry8_16
+                0x0000000000025e3d                Entry7_16
+                0x0000000000025ece                Entry12_16
+                0x0000000000025f08                Entry14_16
+                0x0000000000025de6                Entry4_16
+                0x00000000000260a7                D_DrawZSpans
+                0x0000000000025dcf                Entry3_16
+                0x0000000000025e03                Entry5_16
+                0x0000000000025e77                Entry9_16
+                0x0000000000025f3a                Entry16_16
+                0x0000000000025eb1                Entry11_16
+                0x0000000000025dc5                Entry2_16
+ .text          0x00000000000262b0      0x575 debugi386-glibc/ref_soft/r_drawa.o
+                0x00000000000262b0                R_ClipEdge
+ *fill*         0x0000000000026825        0x3 90909090
+ .text          0x0000000000026828      0x480 debugi386-glibc/ref_soft/r_edgea.o
+                0x00000000000269e6                R_GenerateSpans
+                0x0000000000026828                R_EdgeCodeStart
+                0x00000000000268c5                R_StepActiveU
+                0x0000000000026c88                R_SurfacePatch
+                0x0000000000026c87                R_EdgeCodeEnd
+                0x0000000000026828                R_InsertNewEdges
+                0x0000000000026893                R_RemoveEdges
+ .text          0x0000000000026ca8       0x77 debugi386-glibc/ref_soft/r_scana.o
+                0x0000000000026ca8                D_DrawTurbulent8Span
+ *fill*         0x0000000000026d1f        0x1 90909090
+ .text          0x0000000000026d20      0x89c debugi386-glibc/ref_soft/r_spr8.o
+                0x00000000000273fc                Spr8Entry2_8
+                0x0000000000027409                Spr8Entry3_8
+                0x000000000002741f                Spr8Entry5_8
+                0x0000000000026d9c                D_SpriteDrawSpans
+                0x0000000000027432                Spr8Entry7_8
+                0x000000000002742a                Spr8Entry6_8
+                0x0000000000027414                Spr8Entry4_8
+                0x0000000000027438                Spr8Entry8_8
+ .text          0x00000000000275bc      0x540 debugi386-glibc/ref_soft/r_surf8.o
+                0x00000000000278c4                R_DrawSurfaceBlock8_mip2
+                0x0000000000027ae0                R_Surf8Patch
+                0x0000000000027778                R_DrawSurfaceBlock8_mip1
+                0x00000000000275bc                R_DrawSurfaceBlock8_mip0
+                0x0000000000027ade                R_Surf8End
+                0x00000000000279d0                R_DrawSurfaceBlock8_mip3
+                0x00000000000275bc                R_Surf8Start
+ .text          0x0000000000027afc       0x87 debugi386-glibc/ref_soft/math.o
+                0x0000000000027afc                Invert24To16
+                0x0000000000027b14                TransformVector
+ *fill*         0x0000000000027b83        0x1 90909090
+ .text          0x0000000000027b84      0x5ba debugi386-glibc/ref_soft/d_polysa.o
+                0x0000000000027fa7                D_PolysetAff8End
+                0x0000000000027b84                D_PolysetRecursiveTriangle
+                0x0000000000027fda                R_PolysetScanLeftEdge
+                0x0000000000027fa7                D_Aff8Patch
+                0x0000000000027cc1                D_PolysetAff8Start
+                0x0000000000027cc1                R_PolysetDrawSpans8_Opaque
+ *fill*         0x000000000002813e        0x2 90909090
+ .text          0x0000000000028140        0x0 debugi386-glibc/ref_soft/r_varsa.o
+ .text          0x0000000000028140       0x63 debugi386-glibc/ref_soft/sys_dosa.o
+                0x000000000002815b                Sys_HighFPPrecision
+                0x000000000002816f                Sys_PopFPCW
+                0x0000000000028154                Sys_LowFPPrecision
+                0x0000000000028162                Sys_PushFPCW_SetHigh
+                0x0000000000028176                Sys_SetFPCW
+                0x0000000000028140                MaskExceptions
+ *fill*         0x00000000000281a3        0x1 90909090
+ .text          0x00000000000281a4     0x26ef debugi386-glibc/ref_soft/q_shared.o
+                0x000000000002a07a                Com_PageInMemory
+                0x000000000002986f                VectorLength
+                0x000000000002a26c                Info_ValueForKey
+                0x000000000002863e                ProjectPointOnPlane
+                0x0000000000029c99                BigFloat
+                0x000000000002a424                Info_RemoveKey
+                0x000000000002999b                COM_StripExtension
+                0x0000000000029c71                LittleLong
+                0x00000000000296a0                VectorMA
+                0x0000000000029ccd                LittleFloat
+                0x0000000000029d33                ShortNoSwap
+                0x00000000000299cf                COM_FileExtension
+                0x00000000000297ef                CrossProduct
+                0x000000000002a1a3                Com_sprintf
+                0x0000000000029967                COM_SkipPath
+                0x0000000000029c18                LittleShort
+                0x0000000000029b87                COM_DefaultExtension
+                0x00000000000294b2                VectorCompare
+                0x0000000000029d46                LongSwap
+                0x00000000000298d9                VectorInverse
+                0x0000000000029be7                BigShort
+                0x0000000000028a20                R_ConcatTransforms
+                0x000000000002a0c3                Q_stricmp
+                0x0000000000029439                AddPointToBounds
+                0x0000000000029ddd                Swap_Init
+                0x00000000000295ed                VectorNormalize2
+                0x0000000000028433                AngleVectors
+                0x000000000002a614                Info_SetValueForKey
+                0x0000000000028d43                Q_fabs
+                0x0000000000028e25                BoxOnPlaneSide2
+                0x00000000000293eb                ClearBounds
+                0x000000000002990e                VectorScale
+                0x0000000000028f3a                BoxOnPlaneSide
+                0x0000000000029f06                COM_Parse
+                0x0000000000029946                Q_log2
+                0x0000000000029c49                BigLong
+                0x000000000002a5b2                Info_Validate
+                0x0000000000029a5d                COM_FileBase
+                0x00000000000281a4                RotatePointAroundVector
+                0x0000000000029b0f                COM_FilePath
+                0x0000000000029dcc                FloatNoSwap
+                0x000000000002a171                Q_strcasecmp
+                0x00000000000287de                R_ConcatRotations
+                0x0000000000029d91                LongNoSwap
+                0x0000000000029d01                ShortSwap
+                0x000000000002a0ed                Q_strncasecmp
+                0x00000000000296f3                _DotProduct
+                0x0000000000028dcd                anglemod
+                0x0000000000029ec6                va
+                0x000000000002951a                VectorNormalize
+                0x000000000002872f                PerpendicularVector
+                0x0000000000029776                _VectorAdd
+                0x0000000000028d69                LerpAngle
+                0x0000000000029d99                FloatSwap
+                0x000000000002972c                _VectorSubtract
+                0x00000000000297c0                _VectorCopy
+ *fill*         0x000000000002a893        0x1 90909090
+ .text          0x000000000002a894      0x597 debugi386-glibc/ref_soft/q_shlinux.o
+                0x000000000002acc1                Hunk_Free
+                0x000000000002ad0f                Hunk_End
+                0x000000000002a894                Sys_FindClose
+                0x000000000002ad8e                Hunk_Begin
+                0x000000000002ac3e                Sys_Milliseconds
+                0x000000000002a950                Sys_FindNext
+                0x000000000002abd8                strlwr
+                0x000000000002aa03                Hunk_Alloc
+                0x000000000002aa72                Sys_FindFirst
+                0x000000000002ac13                Sys_Mkdir
+ *fill*         0x000000000002ae2b        0x1 90909090
+ .text          0x000000000002ae2c      0x3f3 debugi386-glibc/ref_soft/glob.o
+                0x000000000002afb2                glob_match
+ *fill*         0x000000000002b21f        0x1 90909090
+ .text          0x000000000002b220      0x94c debugi386-glibc/ref_soft/rw_svgalib.o
+                0x000000000002b8ee                SWimp_SetMode
+                0x000000000002b9d6                SWimp_SetPalette
+                0x000000000002b81d                SWimp_EndFrame
+                0x000000000002b220                VID_InitModes
+                0x000000000002baa6                SWimp_Shutdown
+                0x000000000002b447                SWimp_Init
+                0x000000000002baf7                Sys_MakeCodeWriteable
+                0x000000000002b46e                get_mode
+                0x000000000002baf2                SWimp_AppActivate
+ .text          0x000000000002bb6c       0xeb debugi386-glibc/ref_soft/d_copy.o
+                0x000000000002bc23                VGA_UpdateLinearScreen
+                0x000000000002bb6c                VGA_UpdatePlanarScreen
+ *fill*         0x000000000002bc57        0x1 90909090
+ .text          0x000000000002bc58      0xb5d debugi386-glibc/ref_soft/rw_in_svgalib.o
+                0x000000000002c7b0                RW_IN_Activate
+                0x000000000002bfea                KBD_Close
+                0x000000000002c7ab                RW_IN_Frame
+                0x000000000002c521                RW_IN_Move
+                0x000000000002bfc9                KBD_Update
+                0x000000000002bca2                KBD_Init
+                0x000000000002c0a4                RW_IN_Init
+                0x000000000002c38d                RW_IN_Shutdown
+                0x000000000002c3aa                RW_IN_Commands
+ *fill*         0x000000000002c7b5        0xb 90909090
+ .text          0x000000000002c7c0       0x14 /usr/lib/libc_nonshared.a(stack_chk_fail_local.oS)
+                0x000000000002c7c0                __stack_chk_fail_local
+ *fill*         0x000000000002c7d4        0xc 90909090
+ .text          0x000000000002c7e0       0x34 /usr/lib/gcc/i486-linux-gnu/4.2.4/crtendS.o
+ .text          0x000000000002c814        0x0 /usr/lib/gcc/i486-linux-gnu/4.2.4/../../../../lib/crtn.o
+ *(.text.*personality*)
+ *(.gnu.warning)
+
+.fini           0x000000000002c814       0x1c
+ *(.fini)
+ .fini          0x000000000002c814       0x13 /usr/lib/gcc/i486-linux-gnu/4.2.4/../../../../lib/crti.o
+                0x000000000002c814                _fini
+ .fini          0x000000000002c827        0x5 /usr/lib/gcc/i486-linux-gnu/4.2.4/crtbeginS.o
+ .fini          0x000000000002c82c        0x4 /usr/lib/gcc/i486-linux-gnu/4.2.4/../../../../lib/crtn.o
+                0x000000000002c830                PROVIDE (__etext, .)
+                0x000000000002c830                PROVIDE (_etext, .)
+                0x000000000002c830                PROVIDE (etext, .)
+
+.rodata         0x000000000002c830      0xfd4
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata        0x000000000002c830        0x4 debugi386-glibc/ref_soft/r_aclip.o
+ *fill*         0x000000000002c834        0x4 00
+ .rodata        0x000000000002c838      0x100 debugi386-glibc/ref_soft/r_alias.o
+ .rodata        0x000000000002c938       0x40 debugi386-glibc/ref_soft/r_bsp.o
+ .rodata        0x000000000002c978       0x43 debugi386-glibc/ref_soft/r_draw.o
+ *fill*         0x000000000002c9bb        0x5 00
+ .rodata        0x000000000002c9c0       0x30 debugi386-glibc/ref_soft/r_edge.o
+ .rodata        0x000000000002c9f0      0x148 debugi386-glibc/ref_soft/r_image.o
+ .rodata        0x000000000002cb38       0x1c debugi386-glibc/ref_soft/r_light.o
+ *fill*         0x000000000002cb54        0x4 00
+ .rodata        0x000000000002cb58      0x348 debugi386-glibc/ref_soft/r_main.o
+ .rodata        0x000000000002cea0      0x114 debugi386-glibc/ref_soft/r_misc.o
+ *fill*         0x000000000002cfb4        0x4 00
+ .rodata        0x000000000002cfb8      0x32c debugi386-glibc/ref_soft/r_model.o
+ *fill*         0x000000000002d2e4        0x4 00
+ .rodata        0x000000000002d2e8       0x28 debugi386-glibc/ref_soft/r_part.o
+ .rodata        0x000000000002d310       0x58 debugi386-glibc/ref_soft/r_poly.o
+ .rodata        0x000000000002d368       0x20 debugi386-glibc/ref_soft/r_rast.o
+ .rodata        0x000000000002d388        0xc debugi386-glibc/ref_soft/r_scan.o
+ .rodata        0x000000000002d394       0xc4 debugi386-glibc/ref_soft/r_surf.o
+ .rodata        0x000000000002d458      0x180 debugi386-glibc/ref_soft/q_shared.o
+ .rodata.str1.1
+                0x000000000002d5d8       0x5b debugi386-glibc/ref_soft/q_shlinux.o
+                                         0x5d (size before relaxing)
+ *fill*         0x000000000002d633        0x1 00
+ .rodata.str1.4
+                0x000000000002d634       0x54 debugi386-glibc/ref_soft/q_shlinux.o
+ .rodata        0x000000000002d688       0xb4 debugi386-glibc/ref_soft/rw_svgalib.o
+ .rodata        0x000000000002d73c       0xc8 debugi386-glibc/ref_soft/rw_in_svgalib.o
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame       0x000000000002d804        0x4
+ *(.eh_frame)
+ .eh_frame      0x000000000002d804        0x4 /usr/lib/gcc/i486-linux-gnu/4.2.4/crtendS.o
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+                0x000000000002d808                . = (ALIGN (0x1000) - ((0x1000 - .) & 0xfff))
+                0x000000000002e808                . = (0x1000 DATA_SEGMENT_ALIGN 0x1000)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array
+ *(.preinit_array)
+
+.init_array
+ *(SORT(.init_array.*))
+ *(.init_array)
+
+.fini_array
+ *(.fini_array)
+ *(SORT(.fini_array.*))
+
+.ctors          0x000000000002e808        0x8
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ .ctors         0x000000000002e808        0x4 /usr/lib/gcc/i486-linux-gnu/4.2.4/crtbeginS.o
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+ .ctors         0x000000000002e80c        0x4 /usr/lib/gcc/i486-linux-gnu/4.2.4/crtendS.o
+
+.dtors          0x000000000002e810        0x8
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ .dtors         0x000000000002e810        0x4 /usr/lib/gcc/i486-linux-gnu/4.2.4/crtbeginS.o
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+ .dtors         0x000000000002e814        0x4 /usr/lib/gcc/i486-linux-gnu/4.2.4/crtendS.o
+
+.jcr            0x000000000002e818        0x4
+ *(.jcr)
+ .jcr           0x000000000002e818        0x0 /usr/lib/gcc/i486-linux-gnu/4.2.4/crtbeginS.o
+ .jcr           0x000000000002e818        0x4 /usr/lib/gcc/i486-linux-gnu/4.2.4/crtendS.o
+
+.data.rel.ro
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro* .gnu.linkonce.d.rel.ro.*)
+
+.dynamic        0x000000000002e81c       0xe0
+ *(.dynamic)
+ .dynamic       0x000000000002e81c       0xe0 /usr/lib/gcc/i486-linux-gnu/4.2.4/../../../../lib/crti.o
+                0x000000000002e81c                _DYNAMIC
+
+.got            0x000000000002e8fc      0x674
+ *(.got)
+ .got           0x000000000002e8fc      0x674 /usr/lib/gcc/i486-linux-gnu/4.2.4/../../../../lib/crti.o
+                0x000000000002ef70                . = (. DATA_SEGMENT_RELRO_END 0xc)
+
+.got.plt        0x000000000002ef70      0x40c
+ *(.got.plt)
+ .got.plt       0x000000000002ef70      0x40c /usr/lib/gcc/i486-linux-gnu/4.2.4/../../../../lib/crti.o
+                0x000000000002ef70                _GLOBAL_OFFSET_TABLE_
+
+.data           0x000000000002f380     0x4068
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x000000000002f380        0x0 /usr/lib/gcc/i486-linux-gnu/4.2.4/../../../../lib/crti.o
+ .data          0x000000000002f380        0x0 /usr/lib/gcc/i486-linux-gnu/4.2.4/crtbeginS.o
+ .data.rel      0x000000000002f380        0x4 /usr/lib/gcc/i486-linux-gnu/4.2.4/crtbeginS.o
+                0x000000000002f380                __dso_handle
+ .data.rel.local
+                0x000000000002f384        0x4 /usr/lib/gcc/i486-linux-gnu/4.2.4/crtbeginS.o
+ .data          0x000000000002f388        0x0 debugi386-glibc/ref_soft/r_aclip.o
+ *fill*         0x000000000002f388       0x18 00
+ .data          0x000000000002f3a0      0x800 debugi386-glibc/ref_soft/r_alias.o
+                0x000000000002f3a0                r_avertexnormals
+ .data          0x000000000002fba0        0x0 debugi386-glibc/ref_soft/r_bsp.o
+ .data          0x000000000002fba0        0x0 debugi386-glibc/ref_soft/r_draw.o
+ .data          0x000000000002fba0        0x0 debugi386-glibc/ref_soft/r_edge.o
+ .data          0x000000000002fba0        0x0 debugi386-glibc/ref_soft/r_image.o
+ .data          0x000000000002fba0        0x0 debugi386-glibc/ref_soft/r_light.o
+ .data          0x000000000002fba0       0x20 debugi386-glibc/ref_soft/r_main.o
+                0x000000000002fba4                r_framecount
+                0x000000000002fba8                r_skysideimage
+                0x000000000002fba0                r_aliasuvscale
+ .data.rel      0x000000000002fbc0        0xc debugi386-glibc/ref_soft/r_main.o
+                0x000000000002fbc0                r_viewlighting
+ .data.rel.local
+                0x000000000002fbcc       0x18 debugi386-glibc/ref_soft/r_main.o
+                0x000000000002fbcc                suf
+ .data          0x000000000002fbe4        0xc debugi386-glibc/ref_soft/r_misc.o
+ .data          0x000000000002fbf0        0x0 debugi386-glibc/ref_soft/r_model.o
+ .data          0x000000000002fbf0        0x0 debugi386-glibc/ref_soft/r_part.o
+ .data          0x000000000002fbf0        0x0 debugi386-glibc/ref_soft/r_poly.o
+ *fill*         0x000000000002fbf0       0x10 00
+ .data          0x000000000002fc00     0x3100 debugi386-glibc/ref_soft/r_polyse.o
+                0x000000000002fc00                rand1k
+                0x0000000000032c00                irtable
+ .data.rel      0x0000000000032d00      0x1b0 debugi386-glibc/ref_soft/r_polyse.o
+                0x0000000000032d00                edgetables
+ *fill*         0x0000000000032eb0       0x10 00
+ .data          0x0000000000032ec0      0x220 debugi386-glibc/ref_soft/r_rast.o
+                0x0000000000032fe0                box_vecs
+                0x0000000000032f00                box_surfedges
+                0x0000000000033080                box_verts
+                0x0000000000032fc0                box_faces
+                0x0000000000032ec0                skybox_planes
+                0x0000000000032f60                box_edges
+ .data          0x00000000000330e0        0x0 debugi386-glibc/ref_soft/r_scan.o
+ .data          0x00000000000330e0        0x0 debugi386-glibc/ref_soft/r_sprite.o
+ .data          0x00000000000330e0        0x0 debugi386-glibc/ref_soft/r_surf.o
+ .data.rel      0x00000000000330e0       0x10 debugi386-glibc/ref_soft/r_surf.o
+ .data          0x00000000000330f0        0x8 debugi386-glibc/ref_soft/r_aclipa.o
+ .data          0x00000000000330f8        0x0 debugi386-glibc/ref_soft/r_draw16.o
+ .data          0x00000000000330f8       0x24 debugi386-glibc/ref_soft/r_drawa.o
+ .data          0x000000000003311c       0x10 debugi386-glibc/ref_soft/r_edgea.o
+ .data          0x000000000003312c        0x0 debugi386-glibc/ref_soft/r_scana.o
+ .data          0x000000000003312c        0x0 debugi386-glibc/ref_soft/r_spr8.o
+ .data          0x000000000003312c       0x84 debugi386-glibc/ref_soft/r_surf8.o
+ .data          0x00000000000331b0        0x0 debugi386-glibc/ref_soft/math.o
+ .data          0x00000000000331b0       0x38 debugi386-glibc/ref_soft/d_polysa.o
+ .data          0x00000000000331e8      0x1b0 debugi386-glibc/ref_soft/r_varsa.o
+                0x0000000000033274                s
+                0x0000000000033240                d_tdivzorigin
+                0x00000000000332ac                pz
+                0x0000000000033210                fp_64kx64k
+                0x0000000000033208                fp_8
+                0x0000000000033340                DP_Pix
+                0x0000000000033220                r_bmodelactive
+                0x00000000000331f4                float_particle_z_clip
+                0x00000000000331e8                float_0
+                0x00000000000332a4                tdivz16stepu
+                0x0000000000033268                d_zrowbytes
+                0x0000000000033294                sdivz8stepu
+                0x0000000000033258                cacheblock
+                0x0000000000033238                d_zistepv
+                0x0000000000033270                izi
+                0x0000000000033278                t
+                0x0000000000033214                FloatZero
+                0x000000000003320c                fp_16
+                0x0000000000033378                spr8entryvec_table
+                0x0000000000033244                d_ziorigin
+                0x000000000003321c                FloatMinus2ToThe31nd
+                0x0000000000033350                tstep
+                0x00000000000332a0                sdivz16stepu
+                0x00000000000331f0                float_minus_1
+                0x000000000003334c                sstep
+                0x000000000003332c                DP_Count
+                0x0000000000033224                d_sdivzstepu
+                0x000000000003322c                d_zistepu
+                0x0000000000033334                DP_v
+                0x000000000003333c                DP_Color
+                0x0000000000033234                d_tdivzstepv
+                0x000000000003329c                zi16stepu
+                0x000000000003325c                cachewidth
+                0x0000000000033248                sadjust
+                0x0000000000033284                sfracf
+                0x0000000000033260                d_viewbuffer
+                0x0000000000033290                zi8stepu
+                0x00000000000331f8                float_point5
+                0x0000000000033354                pspantemp
+                0x0000000000033254                bbextentt
+                0x000000000003328c                pbase
+                0x000000000003327c                snext
+                0x00000000000331fc                fp_1m
+                0x0000000000033230                d_sdivzstepv
+                0x000000000003335c                jumptemp
+                0x00000000000332b0                izistep
+                0x000000000003326c                d_zwidth
+                0x0000000000033330                DP_u
+                0x0000000000033228                d_tdivzstepu
+                0x00000000000332a8                spancountminus1
+                0x00000000000332b4                reciprocal_table_16
+                0x0000000000033360                reciprocal_table
+                0x0000000000033344                advancetable
+                0x0000000000033298                tdivz8stepu
+                0x00000000000331ec                float_1
+                0x0000000000033200                fp_1m_minus_1
+                0x0000000000033264                d_pzbuffer
+                0x0000000000033218                Float2ToThe31nd
+                0x0000000000033338                DP_32768
+                0x0000000000033288                tfracf
+                0x0000000000033204                fp_64k
+                0x0000000000033250                bbextents
+                0x000000000003324c                tadjust
+                0x0000000000033280                tnext
+                0x0000000000033358                counttemp
+                0x00000000000332ec                entryvec_table_16
+                0x000000000003323c                d_sdivzorigin
+ .data          0x0000000000033398       0x34 debugi386-glibc/ref_soft/sys_dosa.o
+                0x00000000000333c8                pushed_cw
+                0x00000000000333c4                cw
+                0x00000000000333c0                full_cw
+                0x00000000000333bc                single_cw
+                0x00000000000333b8                ceil_cw
+ .data          0x00000000000333cc        0x0 debugi386-glibc/ref_soft/q_shared.o
+ .data          0x00000000000333cc        0x0 debugi386-glibc/ref_soft/q_shlinux.o
+ .data          0x00000000000333cc        0x0 debugi386-glibc/ref_soft/glob.o
+ .data          0x00000000000333cc        0x0 debugi386-glibc/ref_soft/rw_svgalib.o
+ .data          0x00000000000333cc       0x14 debugi386-glibc/ref_soft/d_copy.o
+ .data          0x00000000000333e0        0x8 debugi386-glibc/ref_soft/rw_in_svgalib.o
+ .data          0x00000000000333e8        0x0 /usr/lib/libc_nonshared.a(stack_chk_fail_local.oS)
+ .data          0x00000000000333e8        0x0 /usr/lib/gcc/i486-linux-gnu/4.2.4/crtendS.o
+ .data          0x00000000000333e8        0x0 /usr/lib/gcc/i486-linux-gnu/4.2.4/../../../../lib/crtn.o
+ *(.gnu.linkonce.d.*personality*)
+
+.data1
+ *(.data1)
+                0x00000000000333e8                _edata = .
+                0x00000000000333e8                PROVIDE (edata, .)
+                0x00000000000333e8                __bss_start = .
+
+.bss            0x0000000000033400    0xf1ad4
+ *(.dynbss)
+ .dynbss        0x0000000000000000        0x0 /usr/lib/gcc/i486-linux-gnu/4.2.4/../../../../lib/crti.o
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x0000000000033400        0x0 /usr/lib/gcc/i486-linux-gnu/4.2.4/../../../../lib/crti.o
+ .bss           0x0000000000033400        0x1 /usr/lib/gcc/i486-linux-gnu/4.2.4/crtbeginS.o
+ *fill*         0x0000000000033401       0x1f 00
+ .bss           0x0000000000033420      0x280 debugi386-glibc/ref_soft/r_aclip.o
+ .bss           0x00000000000336a0       0x58 debugi386-glibc/ref_soft/r_alias.o
+ .bss           0x00000000000336f8       0x1c debugi386-glibc/ref_soft/r_bsp.o
+ .bss           0x0000000000033714        0x0 debugi386-glibc/ref_soft/r_draw.o
+ .bss           0x0000000000033714        0x8 debugi386-glibc/ref_soft/r_edge.o
+ .bss           0x000000000003371c        0x0 debugi386-glibc/ref_soft/r_image.o
+ .bss           0x000000000003371c        0x0 debugi386-glibc/ref_soft/r_light.o
+ .bss           0x000000000003371c        0x4 debugi386-glibc/ref_soft/r_main.o
+ .bss           0x0000000000033720        0x4 debugi386-glibc/ref_soft/r_misc.o
+ *fill*         0x0000000000033724       0x1c 00
+ .bss           0x0000000000033740     0x2000 debugi386-glibc/ref_soft/r_model.o
+ .bss           0x0000000000035740        0xc debugi386-glibc/ref_soft/r_part.o
+ .bss           0x000000000003574c       0x14 debugi386-glibc/ref_soft/r_poly.o
+ .bss           0x0000000000035760        0xc debugi386-glibc/ref_soft/r_polyse.o
+                0x0000000000035760                rand1k_index
+                0x0000000000035764                iractive
+ .bss           0x000000000003576c        0x8 debugi386-glibc/ref_soft/r_rast.o
+ *fill*         0x0000000000035774        0xc 00
+ .bss           0x0000000000035780     0x2c00 debugi386-glibc/ref_soft/r_scan.o
+ .bss           0x0000000000038380        0x0 debugi386-glibc/ref_soft/r_sprite.o
+ .bss           0x0000000000038380        0x0 debugi386-glibc/ref_soft/r_surf.o
+ .bss           0x0000000000038380        0x0 debugi386-glibc/ref_soft/r_aclipa.o
+ .bss           0x0000000000038380        0x0 debugi386-glibc/ref_soft/r_draw16.o
+ .bss           0x0000000000038380        0x0 debugi386-glibc/ref_soft/r_drawa.o
+ .bss           0x0000000000038380        0x0 debugi386-glibc/ref_soft/r_edgea.o
+ .bss           0x0000000000038380        0x0 debugi386-glibc/ref_soft/r_scana.o
+ .bss           0x0000000000038380        0x0 debugi386-glibc/ref_soft/r_spr8.o
+ .bss           0x0000000000038380        0x0 debugi386-glibc/ref_soft/r_surf8.o
+ .bss           0x0000000000038380        0x0 debugi386-glibc/ref_soft/math.o
+ .bss           0x0000000000038380        0x0 debugi386-glibc/ref_soft/d_polysa.o
+ .bss           0x0000000000038380        0x0 debugi386-glibc/ref_soft/r_varsa.o
+ .bss           0x0000000000038380        0x0 debugi386-glibc/ref_soft/sys_dosa.o
+ .bss           0x0000000000038380      0x860 debugi386-glibc/ref_soft/q_shared.o
+                0x0000000000038380                vec3_origin
+ .bss           0x0000000000038be0      0x1a4 debugi386-glibc/ref_soft/q_shlinux.o
+ .bss           0x0000000000038d84        0x0 debugi386-glibc/ref_soft/glob.o
+ *fill*         0x0000000000038d84       0x1c 00
+ .bss           0x0000000000038da0      0xc00 debugi386-glibc/ref_soft/rw_svgalib.o
+ .bss           0x00000000000399a0        0x0 debugi386-glibc/ref_soft/d_copy.o
+ .bss           0x00000000000399a0       0xd8 debugi386-glibc/ref_soft/rw_in_svgalib.o
+ .bss           0x0000000000039a78        0x0 /usr/lib/libc_nonshared.a(stack_chk_fail_local.oS)
+ .bss           0x0000000000039a78        0x0 /usr/lib/gcc/i486-linux-gnu/4.2.4/crtendS.o
+ .bss           0x0000000000039a78        0x0 /usr/lib/gcc/i486-linux-gnu/4.2.4/../../../../lib/crtn.o
+ *(COMMON)
+ *fill*         0x0000000000039a78        0x8 00
+ COMMON         0x0000000000039a80     0x3150 debugi386-glibc/ref_soft/r_alias.o
+                0x0000000000039a80                aliasworldtransform
+                0x0000000000039ab0                r_plightvec
+                0x0000000000039abc                s_pmdl
+                0x0000000000039ac0                r_amodels_drawn
+                0x0000000000039ae0                r_affinetridesc
+                0x0000000000039b0c                r_ambientlight
+                0x0000000000039b10                r_lastframe
+                0x0000000000039b14                aliasbatchedtransformdata
+                0x0000000000039b24                r_shadelight
+                0x0000000000039b40                r_lerped
+                0x000000000003cb40                r_thisframe
+                0x000000000003cb44                r_aliasblendcolor
+                0x000000000003cb48                r_lerp_move
+                0x000000000003cb54                r_lerp_frontv
+                0x000000000003cb60                aliastransform
+                0x000000000003cb90                r_lerp_backv
+                0x000000000003cba0                aliasoldworldtransform
+ *fill*         0x000000000003cbd0       0x10 00
+ COMMON         0x000000000003cbe0       0x64 debugi386-glibc/ref_soft/r_bsp.o
+                0x000000000003cbe0                insubmodel
+                0x000000000003cbe4                modelorg
+                0x000000000003cbf0                r_currentbkey
+                0x000000000003cbf4                c_drawnode
+                0x000000000003cbf8                currententity
+                0x000000000003cbfc                r_entorigin
+                0x000000000003cc20                entity_rotation
+ COMMON         0x000000000003cc44        0x4 debugi386-glibc/ref_soft/r_draw.o
+                0x000000000003cc44                draw_chars
+ *fill*         0x000000000003cc48       0x18 00
+ COMMON         0x000000000003cc60     0x26c8 debugi386-glibc/ref_soft/r_edge.o
+                0x000000000003cc60                edge_head
+                0x000000000003cc80                surfaces
+                0x000000000003cc84                edge_head_u_shift20
+                0x000000000003cc88                transformed_modelorg
+                0x000000000003cc94                ubasestep
+                0x000000000003cc98                surface_p
+                0x000000000003cc9c                r_edges
+                0x000000000003cca0                current_iv
+                0x000000000003ccc0                edge_tail
+                0x000000000003cce0                scale_for_mip
+                0x000000000003cce4                world_transformed_modelorg
+                0x000000000003ccf0                pcurrentcache
+                0x000000000003ccf4                r_currentkey
+                0x000000000003ccf8                surf_max
+                0x000000000003cd00                removeedges
+                0x000000000003dfc0                erroradjustup
+                0x000000000003dfc4                span_p
+                0x000000000003dfc8                edge_p
+                0x000000000003dfe0                edge_aftertail
+                0x000000000003e000                local_modelorg
+                0x000000000003e00c                errorterm
+                0x000000000003e010                auxedges
+                0x000000000003e014                erroradjustdown
+                0x000000000003e018                pface
+                0x000000000003e020                edge_sentinel
+                0x000000000003e040                edge_max
+                0x000000000003e044                edge_tail_u_shift20
+                0x000000000003e060                newedges
+                0x000000000003f320                max_span_p
+                0x000000000003f324                fv
+ *fill*         0x000000000003f328       0x18 00
+ COMMON         0x000000000003f340    0x19004 debugi386-glibc/ref_soft/r_image.o
+                0x000000000003f340                r_images
+                0x0000000000058340                numr_images
+ *fill*         0x0000000000058344       0x1c 00
+ COMMON         0x0000000000058360     0x1034 debugi386-glibc/ref_soft/r_light.o
+                0x0000000000058360                pointcolor
+                0x0000000000058380                blocklights
+                0x0000000000059380                lightspot
+                0x000000000005938c                r_dlightframecount
+                0x0000000000059390                lightplane
+ *fill*         0x0000000000059394        0xc 00
+ COMMON         0x00000000000593a0    0x13dec debugi386-glibc/ref_soft/r_main.o
+                0x00000000000593a0                r_cnumsurfs
+                0x00000000000593a4                r_lefthand
+                0x00000000000593a8                r_surfsonstack
+                0x00000000000593ac                r_dowarp
+                0x00000000000593b0                xscaleshrink
+                0x00000000000593b4                dp_time1
+                0x00000000000593b8                xscale
+                0x00000000000593bc                sw_reportedgeout
+                0x00000000000593c0                r_lightlevel
+                0x00000000000593c4                r_outofsurfaces
+                0x00000000000593c8                de_time2
+                0x00000000000593cc                sw_clearcolor
+                0x00000000000593d0                vpn
+                0x00000000000593dc                verticalFieldOfView
+                0x00000000000593e0                vid_fullscreen
+                0x00000000000593e4                xscaleinv
+                0x00000000000593e8                se_time2
+                0x00000000000593ec                vid_gamma
+                0x00000000000593f0                sw_drawflat
+                0x00000000000593f4                r_viewleaf
+                0x00000000000593f8                sw_mode
+                0x00000000000593fc                aliasycenter
+                0x0000000000059400                r_notexture_mip
+                0x0000000000059404                r_polycount
+                0x0000000000059408                r_speeds
+                0x000000000005940c                base_vpn
+                0x0000000000059418                ycenter
+                0x000000000005941c                base_vup
+                0x0000000000059428                da_time1
+                0x000000000005942c                sw_draworder
+                0x0000000000059440                r_warpbuffer
+                0x000000000006c040                dp_time2
+                0x000000000006c044                sw_reportsurfout
+                0x000000000006c048                skyrotate
+                0x000000000006c04c                sw_maxsurfs
+                0x000000000006c050                sw_maxedges
+                0x000000000006c054                xcenter
+                0x000000000006c058                r_clipflags
+                0x000000000006c060                ri
+                0x000000000006c0a0                sw_lockpvs
+                0x000000000006c0a4                pfrustum_indexes
+                0x000000000006c0b4                se_time1
+                0x000000000006c0b8                r_fullbright
+                0x000000000006c0c0                skyname
+                0x000000000006c100                vup
+                0x000000000006c10c                sky_images
+                0x000000000006c140                r_frustum_indexes
+                0x000000000006c1a0                r_newrefdef
+                0x000000000006c208                r_worldmodel
+                0x000000000006c20c                r_screenwidth
+                0x000000000006c210                r_drawnpolycount
+                0x000000000006c214                da_time2
+                0x000000000006c218                sw_allow_modex
+                0x000000000006c220                r_notexture_buffer
+                0x000000000006c620                r_numallocatededges
+                0x000000000006c624                yscaleinv
+                0x000000000006c628                sw_aliasstats
+                0x000000000006c62c                d_spanpixcount
+                0x000000000006c630                c_surf
+                0x000000000006c634                sw_waterwarp
+                0x000000000006c638                yscaleshrink
+                0x000000000006c63c                r_novis
+                0x000000000006c640                r_visframecount
+                0x000000000006c644                r_outofedges
+                0x000000000006c648                currentmodel
+                0x000000000006c660                screenedge
+                0x000000000006c6b0                r_time1
+                0x000000000006c6b4                r_oldviewcluster
+                0x000000000006c6c0                r_refdef
+                0x000000000006c74c                base_vright
+                0x000000000006c758                vright
+                0x000000000006c764                yOrigin
+                0x000000000006c768                vid
+                0x000000000006c780                rw_time1
+                0x000000000006c784                r_drawentities
+                0x000000000006c788                colormap
+                0x000000000006c78c                db_time1
+                0x000000000006c790                r_pcurrentvertbase
+                0x000000000006c7a0                sw_state
+                0x000000000006cca8                viewlightvec
+                0x000000000006ccb4                skyaxis
+                0x000000000006ccc0                r_dspeeds
+                0x000000000006ccc4                r_origin
+                0x000000000006ccd0                r_maxsurfsseen
+                0x000000000006ccd4                aliasyscale
+                0x000000000006ccd8                de_time1
+                0x000000000006ccdc                r_maxedgesseen
+                0x000000000006cce0                r_lerpmodels
+                0x000000000006cd00                d_8to24table
+                0x000000000006d100                yscale
+                0x000000000006d104                sw_surfcacheoverride
+                0x000000000006d108                xOrigin
+                0x000000000006d10c                aliasxcenter
+                0x000000000006d110                sw_stipplealpha
+                0x000000000006d114                r_drawworld
+                0x000000000006d118                r_viewcluster
+                0x000000000006d11c                r_wholepolycount
+                0x000000000006d120                rw_time2
+                0x000000000006d124                aliasxscale
+                0x000000000006d140                r_worldentity
+                0x000000000006d188                db_time2
+ *fill*         0x000000000006d18c       0x14 00
+ COMMON         0x000000000006d1a0     0x25c0 debugi386-glibc/ref_soft/r_misc.o
+                0x000000000006d1a0                d_pix_max
+                0x000000000006d1a4                d_pix_min
+                0x000000000006d1a8                d_vrectbottom_particle
+                0x000000000006d1ac                sw_mipcap
+                0x000000000006d1b0                d_roverwrapped
+                0x000000000006d1b4                d_initial_rover
+                0x000000000006d1b8                d_vrectright_particle
+                0x000000000006d1bc                d_minmip
+                0x000000000006d1c0                zspantable
+                0x000000000006e480                d_scantable
+                0x000000000006f740                d_vrecty
+                0x000000000006f744                d_scalemip
+                0x000000000006f750                d_pix_shift
+                0x000000000006f754                d_vrectx
+                0x000000000006f758                sw_mipscale
+                0x000000000006f75c                alias_colormap
+ COMMON         0x000000000006f760    0xb0080 debugi386-glibc/ref_soft/r_model.o
+                0x000000000006f760                loadname
+                0x000000000006f780                modfilelen
+                0x000000000006f784                mod_base
+                0x000000000006f788                loadmodel
+                0x000000000006f7a0                r_leaftovis
+                0x00000000000af7a0                mod_numknown
+                0x00000000000af7a4                r_numvisleafs
+                0x00000000000af7c0                mod_inline
+                0x00000000000c67c0                registration_sequence
+                0x00000000000c67e0                r_vistoleaf
+                0x00000000001067e0                mod_novis
+                0x00000000001087e0                mod_known
+ COMMON         0x000000000011f7e0       0x24 debugi386-glibc/ref_soft/r_part.o
+                0x000000000011f7e0                r_pright
+                0x000000000011f7ec                r_pup
+                0x000000000011f7f8                r_ppn
+ *fill*         0x000000000011f804       0x1c 00
+ COMMON         0x000000000011f820      0xb94 debugi386-glibc/ref_soft/r_poly.o
+                0x000000000011f820                r_clip_verts
+                0x0000000000120320                r_polydesc
+                0x0000000000120378                r_alpha_surfaces
+                0x0000000000120380                s_spanletvars
+ *fill*         0x00000000001203b4        0xc 00
+ COMMON         0x00000000001203c0      0x894 debugi386-glibc/ref_soft/r_polyse.o
+                0x00000000001203c0                d_pedgespanpackage
+                0x00000000001203c4                r_zistepx
+                0x00000000001203c8                d_light
+                0x00000000001203cc                a_sstepxfrac
+                0x00000000001203d0                r_sstepy
+                0x00000000001203d4                d_xdenom
+                0x00000000001203d8                r_lstepy
+                0x00000000001203dc                d_lightbasestep
+                0x00000000001203e0                a_tstepxfrac
+                0x00000000001203e4                d_sfracbasestep
+                0x00000000001203e8                d_zi
+                0x0000000000120400                skintable
+                0x0000000000120b80                r_p2
+                0x0000000000120b98                d_ptexbasestep
+                0x0000000000120b9c                a_ststepxwhole
+                0x0000000000120ba0                d_zibasestep
+                0x0000000000120ba4                r_sstepx
+                0x0000000000120ba8                r_lstepx
+                0x0000000000120bac                skinstart
+                0x0000000000120bb0                d_aspancount
+                0x0000000000120bb4                d_pcolormap
+                0x0000000000120bb8                d_aflatcolor
+                0x0000000000120bbc                d_pzextrastep
+                0x0000000000120bc0                d_ptexextrastep
+                0x0000000000120bc4                pedgetable
+                0x0000000000120bc8                d_lightextrastep
+                0x0000000000120bcc                r_p1
+                0x0000000000120be4                d_pdestbasestep
+                0x0000000000120be8                a_spans
+                0x0000000000120bec                d_tfracbasestep
+                0x0000000000120bf0                d_pdrawspans
+                0x0000000000120bf4                d_pdest
+                0x0000000000120bf8                d_ptex
+                0x0000000000120bfc                aliastriangleparms
+                0x0000000000120c08                r_tstepy
+                0x0000000000120c0c                d_tfrac
+                0x0000000000120c10                d_pdestextrastep
+                0x0000000000120c14                d_pzbasestep
+                0x0000000000120c18                d_countextrastep
+                0x0000000000120c1c                d_sfrac
+                0x0000000000120c20                r_p0
+                0x0000000000120c38                d_sfracextrastep
+                0x0000000000120c3c                d_pz
+                0x0000000000120c40                d_tfracextrastep
+                0x0000000000120c44                r_zistepy
+                0x0000000000120c48                r_tstepx
+                0x0000000000120c4c                skinwidth
+                0x0000000000120c50                d_ziextrastep
+ *fill*         0x0000000000120c54        0xc 00
+ COMMON         0x0000000000120c60     0x4070 debugi386-glibc/ref_soft/r_rast.o
+                0x0000000000120c60                r_leftenter
+                0x0000000000120c6c                r_leftclipped
+                0x0000000000120c70                r_skyedges
+                0x0000000000120c74                r_u1
+                0x0000000000120c80                view_clipplanes
+                0x0000000000120ce0                r_nearzi
+                0x0000000000120ce4                r_skysurfedges
+                0x0000000000120ce8                r_ceilv1
+                0x0000000000120cec                r_skyframe
+                0x0000000000120cf0                c_faceclip
+                0x0000000000120d00                r_skytexinfo
+                0x0000000000120e40                blanktable
+                0x0000000000122240                r_skyfaces
+                0x0000000000122244                r_pedge
+                0x0000000000122248                r_lastvertvalid
+                0x000000000012224c                r_v1
+                0x0000000000122250                r_lzi1
+                0x0000000000122254                r_rightenter
+                0x0000000000122260                world_clipplanes
+                0x00000000001223e0                cacheoffset
+                0x00000000001223e4                r_leftexit
+                0x0000000000122400                sintable
+                0x0000000000123800                entity_clipplanes
+                0x0000000000123820                r_skyplanes
+                0x0000000000123898                r_skyverts
+                0x000000000012389c                r_emitted
+                0x00000000001238a0                r_nearzionly
+                0x00000000001238c0                intsintable
+                0x0000000000124cc0                r_rightexit
+                0x0000000000124ccc                r_rightclipped
+ COMMON         0x0000000000124cd0       0x20 debugi386-glibc/ref_soft/r_scan.o
+                0x0000000000124cd0                r_turb_sstep
+                0x0000000000124cd4                r_turb_t
+                0x0000000000124cd8                r_turb_tstep
+                0x0000000000124cdc                r_turb_turb
+                0x0000000000124ce0                r_turb_pbase
+                0x0000000000124ce4                r_turb_spancount
+                0x0000000000124ce8                r_turb_s
+                0x0000000000124cec                r_turb_pdest
+ *fill*         0x0000000000124cf0       0x10 00
+ COMMON         0x0000000000124d00       0xb0 debugi386-glibc/ref_soft/r_surf.o
+                0x0000000000124d00                r_stepback
+                0x0000000000124d04                r_cache_thrash
+                0x0000000000124d08                lightright
+                0x0000000000124d0c                blockdivmask
+                0x0000000000124d10                lightdelta
+                0x0000000000124d14                pbasesource
+                0x0000000000124d18                sourcetstep
+                0x0000000000124d1c                surfrowbytes
+                0x0000000000124d20                r_numhblocks
+                0x0000000000124d40                r_drawsurf
+                0x0000000000124d6c                r_numvblocks
+                0x0000000000124d70                blockdivshift
+                0x0000000000124d74                sc_base
+                0x0000000000124d78                r_lightwidth
+                0x0000000000124d7c                blocksize
+                0x0000000000124d80                sourcesstep
+                0x0000000000124d84                lightrightstep
+                0x0000000000124d88                prowdestbase
+                0x0000000000124d8c                sc_rover
+                0x0000000000124d90                r_sourcemax
+                0x0000000000124d94                lightleftstep
+                0x0000000000124d98                sc_size
+                0x0000000000124d9c                lightleft
+                0x0000000000124da0                surfscale
+                0x0000000000124da4                r_source
+                0x0000000000124da8                lightdeltastep
+                0x0000000000124dac                r_lightptr
+ *fill*         0x0000000000124db0       0x10 00
+ COMMON         0x0000000000124dc0       0xd8 debugi386-glibc/ref_soft/q_shared.o
+                0x0000000000124dc0                _LittleLong
+                0x0000000000124de0                com_token
+                0x0000000000124e60                corners
+                0x0000000000124e78                i
+                0x0000000000124e7c                _BigFloat
+                0x0000000000124e80                paged_total
+                0x0000000000124e84                _LittleFloat
+                0x0000000000124e88                _BigShort
+                0x0000000000124e8c                bigendien
+                0x0000000000124e90                _LittleShort
+                0x0000000000124e94                _BigLong
+ COMMON         0x0000000000124e98       0x10 debugi386-glibc/ref_soft/q_shlinux.o
+                0x0000000000124e98                curhunksize
+                0x0000000000124e9c                membase
+                0x0000000000124ea0                maxhunksize
+                0x0000000000124ea4                curtime
+ COMMON         0x0000000000124ea8       0x28 debugi386-glibc/ref_soft/rw_svgalib.o
+                0x0000000000124ea8                modes
+                0x0000000000124eac                current_mode
+                0x0000000000124eb0                VGA_bufferrowbytes
+                0x0000000000124eb4                VGA_planar
+                0x0000000000124eb8                framebuffer_ptr
+                0x0000000000124ebc                VGA_width
+                0x0000000000124ec0                VGA_height
+                0x0000000000124ec4                num_modes
+                0x0000000000124ec8                VGA_pagebase
+                0x0000000000124ecc                VGA_rowbytes
+ COMMON         0x0000000000124ed0        0x4 debugi386-glibc/ref_soft/rw_in_svgalib.o
+                0x0000000000124ed0                Key_Event_fp
+                0x0000000000124ed4                . = ALIGN ((. != 0x0)?0x4:0x1)
+                0x0000000000124ed4                . = ALIGN (0x4)
+                0x0000000000124ed4                . = ALIGN (0x4)
+                0x0000000000124ed4                _end = .
+                0x0000000000124ed4                PROVIDE (end, .)
+                0x0000000000124ed4                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000      0x46e
+ *(.comment)
+ .comment       0x0000000000000000       0x2a /usr/lib/gcc/i486-linux-gnu/4.2.4/../../../../lib/crti.o
+ .comment       0x000000000000002a       0x2a /usr/lib/gcc/i486-linux-gnu/4.2.4/crtbeginS.o
+ .comment       0x0000000000000054       0x2a debugi386-glibc/ref_soft/r_aclip.o
+ .comment       0x000000000000007e       0x2a debugi386-glibc/ref_soft/r_alias.o
+ .comment       0x00000000000000a8       0x2a debugi386-glibc/ref_soft/r_bsp.o
+ .comment       0x00000000000000d2       0x2a debugi386-glibc/ref_soft/r_draw.o
+ .comment       0x00000000000000fc       0x2a debugi386-glibc/ref_soft/r_edge.o
+ .comment       0x0000000000000126       0x2a debugi386-glibc/ref_soft/r_image.o
+ .comment       0x0000000000000150       0x2a debugi386-glibc/ref_soft/r_light.o
+ .comment       0x000000000000017a       0x2a debugi386-glibc/ref_soft/r_main.o
+ .comment       0x00000000000001a4       0x2a debugi386-glibc/ref_soft/r_misc.o
+ .comment       0x00000000000001ce       0x2a debugi386-glibc/ref_soft/r_model.o
+ .comment       0x00000000000001f8       0x2a debugi386-glibc/ref_soft/r_part.o
+ .comment       0x0000000000000222       0x2a debugi386-glibc/ref_soft/r_poly.o
+ .comment       0x000000000000024c       0x2a debugi386-glibc/ref_soft/r_polyse.o
+ .comment       0x0000000000000276       0x2a debugi386-glibc/ref_soft/r_rast.o
+ .comment       0x00000000000002a0       0x2a debugi386-glibc/ref_soft/r_scan.o
+ .comment       0x00000000000002ca       0x2a debugi386-glibc/ref_soft/r_sprite.o
+ .comment       0x00000000000002f4       0x2a debugi386-glibc/ref_soft/r_surf.o
+ .comment       0x000000000000031e       0x2a debugi386-glibc/ref_soft/q_shared.o
+ .comment       0x0000000000000348       0x2a debugi386-glibc/ref_soft/q_shlinux.o
+ .comment       0x0000000000000372       0x2a debugi386-glibc/ref_soft/glob.o
+ .comment       0x000000000000039c       0x2a debugi386-glibc/ref_soft/rw_svgalib.o
+ .comment       0x00000000000003c6       0x2a debugi386-glibc/ref_soft/rw_in_svgalib.o
+ .comment       0x00000000000003f0       0x2a /usr/lib/libc_nonshared.a(stack_chk_fail_local.oS)
+ .comment       0x000000000000041a       0x2a /usr/lib/gcc/i486-linux-gnu/4.2.4/crtendS.o
+ .comment       0x0000000000000444       0x2a /usr/lib/gcc/i486-linux-gnu/4.2.4/../../../../lib/crtn.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x470
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x28 /usr/lib/gcc/i486-linux-gnu/4.2.4/../../../../lib/crti.o
+ .debug_aranges
+                0x0000000000000028       0x20 debugi386-glibc/ref_soft/r_aclip.o
+ .debug_aranges
+                0x0000000000000048       0x20 debugi386-glibc/ref_soft/r_alias.o
+ .debug_aranges
+                0x0000000000000068       0x20 debugi386-glibc/ref_soft/r_bsp.o
+ .debug_aranges
+                0x0000000000000088       0x20 debugi386-glibc/ref_soft/r_draw.o
+ .debug_aranges
+                0x00000000000000a8       0x20 debugi386-glibc/ref_soft/r_edge.o
+ .debug_aranges
+                0x00000000000000c8       0x20 debugi386-glibc/ref_soft/r_image.o
+ .debug_aranges
+                0x00000000000000e8       0x20 debugi386-glibc/ref_soft/r_light.o
+ .debug_aranges
+                0x0000000000000108       0x20 debugi386-glibc/ref_soft/r_main.o
+ .debug_aranges
+                0x0000000000000128       0x20 debugi386-glibc/ref_soft/r_misc.o
+ .debug_aranges
+                0x0000000000000148       0x20 debugi386-glibc/ref_soft/r_model.o
+ .debug_aranges
+                0x0000000000000168       0x20 debugi386-glibc/ref_soft/r_part.o
+ .debug_aranges
+                0x0000000000000188       0x20 debugi386-glibc/ref_soft/r_poly.o
+ .debug_aranges
+                0x00000000000001a8       0x20 debugi386-glibc/ref_soft/r_polyse.o
+ .debug_aranges
+                0x00000000000001c8       0x20 debugi386-glibc/ref_soft/r_rast.o
+ .debug_aranges
+                0x00000000000001e8       0x20 debugi386-glibc/ref_soft/r_scan.o
+ .debug_aranges
+                0x0000000000000208       0x20 debugi386-glibc/ref_soft/r_sprite.o
+ .debug_aranges
+                0x0000000000000228       0x20 debugi386-glibc/ref_soft/r_surf.o
+ .debug_aranges
+                0x0000000000000248       0x20 debugi386-glibc/ref_soft/r_aclipa.o
+ .debug_aranges
+                0x0000000000000268       0x20 debugi386-glibc/ref_soft/r_draw16.o
+ .debug_aranges
+                0x0000000000000288       0x20 debugi386-glibc/ref_soft/r_drawa.o
+ .debug_aranges
+                0x00000000000002a8       0x20 debugi386-glibc/ref_soft/r_edgea.o
+ .debug_aranges
+                0x00000000000002c8       0x20 debugi386-glibc/ref_soft/r_scana.o
+ .debug_aranges
+                0x00000000000002e8       0x20 debugi386-glibc/ref_soft/r_spr8.o
+ .debug_aranges
+                0x0000000000000308       0x20 debugi386-glibc/ref_soft/r_surf8.o
+ .debug_aranges
+                0x0000000000000328       0x20 debugi386-glibc/ref_soft/math.o
+ .debug_aranges
+                0x0000000000000348       0x20 debugi386-glibc/ref_soft/d_polysa.o
+ .debug_aranges
+                0x0000000000000368       0x20 debugi386-glibc/ref_soft/sys_dosa.o
+ .debug_aranges
+                0x0000000000000388       0x20 debugi386-glibc/ref_soft/q_shared.o
+ .debug_aranges
+                0x00000000000003a8       0x20 debugi386-glibc/ref_soft/q_shlinux.o
+ .debug_aranges
+                0x00000000000003c8       0x20 debugi386-glibc/ref_soft/glob.o
+ .debug_aranges
+                0x00000000000003e8       0x20 debugi386-glibc/ref_soft/rw_svgalib.o
+ .debug_aranges
+                0x0000000000000408       0x20 debugi386-glibc/ref_soft/d_copy.o
+ .debug_aranges
+                0x0000000000000428       0x20 debugi386-glibc/ref_soft/rw_in_svgalib.o
+ .debug_aranges
+                0x0000000000000448       0x28 /usr/lib/gcc/i486-linux-gnu/4.2.4/../../../../lib/crtn.o
+
+.debug_pubnames
+                0x0000000000000000     0x2ca0
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x0000000000000000       0x4d debugi386-glibc/ref_soft/r_aclip.o
+ .debug_pubnames
+                0x000000000000004d      0x289 debugi386-glibc/ref_soft/r_alias.o
+ .debug_pubnames
+                0x00000000000002d6      0x131 debugi386-glibc/ref_soft/r_bsp.o
+ .debug_pubnames
+                0x0000000000000407       0xf3 debugi386-glibc/ref_soft/r_draw.o
+ .debug_pubnames
+                0x00000000000004fa      0x328 debugi386-glibc/ref_soft/r_edge.o
+ .debug_pubnames
+                0x0000000000000822       0xea debugi386-glibc/ref_soft/r_image.o
+ .debug_pubnames
+                0x000000000000090c       0xdc debugi386-glibc/ref_soft/r_light.o
+ .debug_pubnames
+                0x00000000000009e8      0x8ae debugi386-glibc/ref_soft/r_main.o
+ .debug_pubnames
+                0x0000000000001296      0x205 debugi386-glibc/ref_soft/r_misc.o
+ .debug_pubnames
+                0x000000000000149b      0x314 debugi386-glibc/ref_soft/r_model.o
+ .debug_pubnames
+                0x00000000000017af       0x5a debugi386-glibc/ref_soft/r_part.o
+ .debug_pubnames
+                0x0000000000001809      0x25d debugi386-glibc/ref_soft/r_poly.o
+ .debug_pubnames
+                0x0000000000001a66      0x4c3 debugi386-glibc/ref_soft/r_polyse.o
+ .debug_pubnames
+                0x0000000000001f29      0x2a1 debugi386-glibc/ref_soft/r_rast.o
+ .debug_pubnames
+                0x00000000000021ca       0xc7 debugi386-glibc/ref_soft/r_scan.o
+ .debug_pubnames
+                0x0000000000002291       0x23 debugi386-glibc/ref_soft/r_sprite.o
+ .debug_pubnames
+                0x00000000000022b4      0x250 debugi386-glibc/ref_soft/r_surf.o
+ .debug_pubnames
+                0x0000000000002504      0x482 debugi386-glibc/ref_soft/q_shared.o
+ .debug_pubnames
+                0x0000000000002986       0xe6 debugi386-glibc/ref_soft/q_shlinux.o
+ .debug_pubnames
+                0x0000000000002a6c       0x21 debugi386-glibc/ref_soft/glob.o
+ .debug_pubnames
+                0x0000000000002a8d      0x15f debugi386-glibc/ref_soft/rw_svgalib.o
+ .debug_pubnames
+                0x0000000000002bec       0xb4 debugi386-glibc/ref_soft/rw_in_svgalib.o
+
+.debug_info     0x0000000000000000    0x227f5
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000       0x8d /usr/lib/gcc/i486-linux-gnu/4.2.4/../../../../lib/crti.o
+ .debug_info    0x000000000000008d      0x733 debugi386-glibc/ref_soft/r_aclip.o
+ .debug_info    0x00000000000007c0     0x27d7 debugi386-glibc/ref_soft/r_alias.o
+ .debug_info    0x0000000000002f97     0x1cd4 debugi386-glibc/ref_soft/r_bsp.o
+ .debug_info    0x0000000000004c6b      0xc9e debugi386-glibc/ref_soft/r_draw.o
+ .debug_info    0x0000000000005909     0x216d debugi386-glibc/ref_soft/r_edge.o
+ .debug_info    0x0000000000007a76     0x1015 debugi386-glibc/ref_soft/r_image.o
+ .debug_info    0x0000000000008a8b     0x178a debugi386-glibc/ref_soft/r_light.o
+ .debug_info    0x000000000000a215     0x373d debugi386-glibc/ref_soft/r_main.o
+ .debug_info    0x000000000000d952     0x296c debugi386-glibc/ref_soft/r_misc.o
+ .debug_info    0x00000000000102be     0x2674 debugi386-glibc/ref_soft/r_model.o
+ .debug_info    0x0000000000012932     0x154c debugi386-glibc/ref_soft/r_part.o
+ .debug_info    0x0000000000013e7e     0x2c04 debugi386-glibc/ref_soft/r_poly.o
+ .debug_info    0x0000000000016a82     0x15f6 debugi386-glibc/ref_soft/r_polyse.o
+ .debug_info    0x0000000000018078     0x1d68 debugi386-glibc/ref_soft/r_rast.o
+ .debug_info    0x0000000000019de0     0x1973 debugi386-glibc/ref_soft/r_scan.o
+ .debug_info    0x000000000001b753     0x11b2 debugi386-glibc/ref_soft/r_sprite.o
+ .debug_info    0x000000000001c905     0x1bd9 debugi386-glibc/ref_soft/r_surf.o
+ .debug_info    0x000000000001e4de       0x6e debugi386-glibc/ref_soft/r_aclipa.o
+ .debug_info    0x000000000001e54c       0x6e debugi386-glibc/ref_soft/r_draw16.o
+ .debug_info    0x000000000001e5ba       0x6d debugi386-glibc/ref_soft/r_drawa.o
+ .debug_info    0x000000000001e627       0x6d debugi386-glibc/ref_soft/r_edgea.o
+ .debug_info    0x000000000001e694       0x6d debugi386-glibc/ref_soft/r_scana.o
+ .debug_info    0x000000000001e701       0x6c debugi386-glibc/ref_soft/r_spr8.o
+ .debug_info    0x000000000001e76d       0x6d debugi386-glibc/ref_soft/r_surf8.o
+ .debug_info    0x000000000001e7da       0x6a debugi386-glibc/ref_soft/math.o
+ .debug_info    0x000000000001e844       0x6e debugi386-glibc/ref_soft/d_polysa.o
+ .debug_info    0x000000000001e8b2       0x6e debugi386-glibc/ref_soft/sys_dosa.o
+ .debug_info    0x000000000001e920     0x18be debugi386-glibc/ref_soft/q_shared.o
+ .debug_info    0x00000000000201de      0x9a4 debugi386-glibc/ref_soft/q_shlinux.o
+ .debug_info    0x0000000000020b82      0x2d2 debugi386-glibc/ref_soft/glob.o
+ .debug_info    0x0000000000020e54      0xd38 debugi386-glibc/ref_soft/rw_svgalib.o
+ .debug_info    0x0000000000021b8c       0x6c debugi386-glibc/ref_soft/d_copy.o
+ .debug_info    0x0000000000021bf8      0xb70 debugi386-glibc/ref_soft/rw_in_svgalib.o
+ .debug_info    0x0000000000022768       0x8d /usr/lib/gcc/i486-linux-gnu/4.2.4/../../../../lib/crtn.o
+
+.debug_abbrev   0x0000000000000000     0x2adf
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000       0x12 /usr/lib/gcc/i486-linux-gnu/4.2.4/../../../../lib/crti.o
+ .debug_abbrev  0x0000000000000012      0x133 debugi386-glibc/ref_soft/r_aclip.o
+ .debug_abbrev  0x0000000000000145      0x22a debugi386-glibc/ref_soft/r_alias.o
+ .debug_abbrev  0x000000000000036f      0x206 debugi386-glibc/ref_soft/r_bsp.o
+ .debug_abbrev  0x0000000000000575      0x218 debugi386-glibc/ref_soft/r_draw.o
+ .debug_abbrev  0x000000000000078d      0x203 debugi386-glibc/ref_soft/r_edge.o
+ .debug_abbrev  0x0000000000000990      0x242 debugi386-glibc/ref_soft/r_image.o
+ .debug_abbrev  0x0000000000000bd2      0x1dc debugi386-glibc/ref_soft/r_light.o
+ .debug_abbrev  0x0000000000000dae      0x2a2 debugi386-glibc/ref_soft/r_main.o
+ .debug_abbrev  0x0000000000001050      0x22b debugi386-glibc/ref_soft/r_misc.o
+ .debug_abbrev  0x000000000000127b      0x261 debugi386-glibc/ref_soft/r_model.o
+ .debug_abbrev  0x00000000000014dc      0x1a6 debugi386-glibc/ref_soft/r_part.o
+ .debug_abbrev  0x0000000000001682      0x255 debugi386-glibc/ref_soft/r_poly.o
+ .debug_abbrev  0x00000000000018d7      0x1c9 debugi386-glibc/ref_soft/r_polyse.o
+ .debug_abbrev  0x0000000000001aa0      0x1e4 debugi386-glibc/ref_soft/r_rast.o
+ .debug_abbrev  0x0000000000001c84      0x1ca debugi386-glibc/ref_soft/r_scan.o
+ .debug_abbrev  0x0000000000001e4e      0x13d debugi386-glibc/ref_soft/r_sprite.o
+ .debug_abbrev  0x0000000000001f8b      0x214 debugi386-glibc/ref_soft/r_surf.o
+ .debug_abbrev  0x000000000000219f       0x14 debugi386-glibc/ref_soft/r_aclipa.o
+ .debug_abbrev  0x00000000000021b3       0x14 debugi386-glibc/ref_soft/r_draw16.o
+ .debug_abbrev  0x00000000000021c7       0x14 debugi386-glibc/ref_soft/r_drawa.o
+ .debug_abbrev  0x00000000000021db       0x14 debugi386-glibc/ref_soft/r_edgea.o
+ .debug_abbrev  0x00000000000021ef       0x14 debugi386-glibc/ref_soft/r_scana.o
+ .debug_abbrev  0x0000000000002203       0x14 debugi386-glibc/ref_soft/r_spr8.o
+ .debug_abbrev  0x0000000000002217       0x14 debugi386-glibc/ref_soft/r_surf8.o
+ .debug_abbrev  0x000000000000222b       0x14 debugi386-glibc/ref_soft/math.o
+ .debug_abbrev  0x000000000000223f       0x14 debugi386-glibc/ref_soft/d_polysa.o
+ .debug_abbrev  0x0000000000002253       0x14 debugi386-glibc/ref_soft/sys_dosa.o
+ .debug_abbrev  0x0000000000002267      0x1b7 debugi386-glibc/ref_soft/q_shared.o
+ .debug_abbrev  0x000000000000241e      0x1f1 debugi386-glibc/ref_soft/q_shlinux.o
+ .debug_abbrev  0x000000000000260f       0xa2 debugi386-glibc/ref_soft/glob.o
+ .debug_abbrev  0x00000000000026b1      0x228 debugi386-glibc/ref_soft/rw_svgalib.o
+ .debug_abbrev  0x00000000000028d9       0x14 debugi386-glibc/ref_soft/d_copy.o
+ .debug_abbrev  0x00000000000028ed      0x1e0 debugi386-glibc/ref_soft/rw_in_svgalib.o
+ .debug_abbrev  0x0000000000002acd       0x12 /usr/lib/gcc/i486-linux-gnu/4.2.4/../../../../lib/crtn.o
+
+.debug_line     0x0000000000000000     0x4c02
+ *(.debug_line)
+ .debug_line    0x0000000000000000       0x86 /usr/lib/gcc/i486-linux-gnu/4.2.4/../../../../lib/crti.o
+ .debug_line    0x0000000000000086      0x131 debugi386-glibc/ref_soft/r_aclip.o
+ .debug_line    0x00000000000001b7      0x341 debugi386-glibc/ref_soft/r_alias.o
+ .debug_line    0x00000000000004f8      0x292 debugi386-glibc/ref_soft/r_bsp.o
+ .debug_line    0x000000000000078a      0x1ef debugi386-glibc/ref_soft/r_draw.o
+ .debug_line    0x0000000000000979      0x2c7 debugi386-glibc/ref_soft/r_edge.o
+ .debug_line    0x0000000000000c40      0x2b9 debugi386-glibc/ref_soft/r_image.o
+ .debug_line    0x0000000000000ef9      0x24a debugi386-glibc/ref_soft/r_light.o
+ .debug_line    0x0000000000001143      0x521 debugi386-glibc/ref_soft/r_main.o
+ .debug_line    0x0000000000001664      0x365 debugi386-glibc/ref_soft/r_misc.o
+ .debug_line    0x00000000000019c9      0x52f debugi386-glibc/ref_soft/r_model.o
+ .debug_line    0x0000000000001ef8      0x174 debugi386-glibc/ref_soft/r_part.o
+ .debug_line    0x000000000000206c      0x52d debugi386-glibc/ref_soft/r_poly.o
+ .debug_line    0x0000000000002599      0x3fc debugi386-glibc/ref_soft/r_polyse.o
+ .debug_line    0x0000000000002995      0x288 debugi386-glibc/ref_soft/r_rast.o
+ .debug_line    0x0000000000002c1d      0x209 debugi386-glibc/ref_soft/r_scan.o
+ .debug_line    0x0000000000002e26      0x14d debugi386-glibc/ref_soft/r_sprite.o
+ .debug_line    0x0000000000002f73      0x206 debugi386-glibc/ref_soft/r_surf.o
+ .debug_line    0x0000000000003179       0x9e debugi386-glibc/ref_soft/r_aclipa.o
+ .debug_line    0x0000000000003217      0x36b debugi386-glibc/ref_soft/r_draw16.o
+ .debug_line    0x0000000000003582      0x1de debugi386-glibc/ref_soft/r_drawa.o
+ .debug_line    0x0000000000003760      0x1da debugi386-glibc/ref_soft/r_edgea.o
+ .debug_line    0x000000000000393a       0x68 debugi386-glibc/ref_soft/r_scana.o
+ .debug_line    0x00000000000039a2      0x286 debugi386-glibc/ref_soft/r_spr8.o
+ .debug_line    0x0000000000003c28      0x1c3 debugi386-glibc/ref_soft/r_surf8.o
+ .debug_line    0x0000000000003deb       0x67 debugi386-glibc/ref_soft/math.o
+ .debug_line    0x0000000000003e52      0x1f8 debugi386-glibc/ref_soft/d_polysa.o
+ .debug_line    0x000000000000404a       0x5d debugi386-glibc/ref_soft/sys_dosa.o
+ .debug_line    0x00000000000040a7      0x40a debugi386-glibc/ref_soft/q_shared.o
+ .debug_line    0x00000000000044b1      0x1ce debugi386-glibc/ref_soft/q_shlinux.o
+ .debug_line    0x000000000000467f       0xb6 debugi386-glibc/ref_soft/glob.o
+ .debug_line    0x0000000000004735      0x1a8 debugi386-glibc/ref_soft/rw_svgalib.o
+ .debug_line    0x00000000000048dd       0x9b debugi386-glibc/ref_soft/d_copy.o
+ .debug_line    0x0000000000004978      0x20e debugi386-glibc/ref_soft/rw_in_svgalib.o
+ .debug_line    0x0000000000004b86       0x7c /usr/lib/gcc/i486-linux-gnu/4.2.4/../../../../lib/crtn.o
+
+.debug_frame    0x0000000000000000     0x2d58
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000       0x94 debugi386-glibc/ref_soft/r_aclip.o
+ .debug_frame   0x0000000000000094      0x1f0 debugi386-glibc/ref_soft/r_alias.o
+ .debug_frame   0x0000000000000284      0x124 debugi386-glibc/ref_soft/r_bsp.o
+ .debug_frame   0x00000000000003a8      0x1b4 debugi386-glibc/ref_soft/r_draw.o
+ .debug_frame   0x000000000000055c      0x25c debugi386-glibc/ref_soft/r_edge.o
+ .debug_frame   0x00000000000007b8      0x1cc debugi386-glibc/ref_soft/r_image.o
+ .debug_frame   0x0000000000000984      0x104 debugi386-glibc/ref_soft/r_light.o
+ .debug_frame   0x0000000000000a88      0x4ac debugi386-glibc/ref_soft/r_main.o
+ .debug_frame   0x0000000000000f34      0x208 debugi386-glibc/ref_soft/r_misc.o
+ .debug_frame   0x000000000000113c      0x4d4 debugi386-glibc/ref_soft/r_model.o
+ .debug_frame   0x0000000000001610       0xc8 debugi386-glibc/ref_soft/r_part.o
+ .debug_frame   0x00000000000016d8      0x338 debugi386-glibc/ref_soft/r_poly.o
+ .debug_frame   0x0000000000001a10      0x230 debugi386-glibc/ref_soft/r_polyse.o
+ .debug_frame   0x0000000000001c40       0xe4 debugi386-glibc/ref_soft/r_rast.o
+ .debug_frame   0x0000000000001d24       0x8c debugi386-glibc/ref_soft/r_scan.o
+ .debug_frame   0x0000000000001db0       0x40 debugi386-glibc/ref_soft/r_sprite.o
+ .debug_frame   0x0000000000001df0      0x164 debugi386-glibc/ref_soft/r_surf.o
+ .debug_frame   0x0000000000001f54      0x7e8 debugi386-glibc/ref_soft/q_shared.o
+ .debug_frame   0x000000000000273c      0x1ec debugi386-glibc/ref_soft/q_shlinux.o
+ .debug_frame   0x0000000000002928       0x7c debugi386-glibc/ref_soft/glob.o
+ .debug_frame   0x00000000000029a4      0x198 debugi386-glibc/ref_soft/rw_svgalib.o
+ .debug_frame   0x0000000000002b3c      0x21c debugi386-glibc/ref_soft/rw_in_svgalib.o
+
+.debug_str      0x0000000000000000      0xdbb
+ *(.debug_str)
+ .debug_str     0x0000000000000000       0xbd debugi386-glibc/ref_soft/r_alias.o
+ .debug_str     0x00000000000000bd       0x75 debugi386-glibc/ref_soft/r_bsp.o
+ .debug_str     0x0000000000000132       0x13 debugi386-glibc/ref_soft/r_draw.o
+ .debug_str     0x0000000000000145       0xad debugi386-glibc/ref_soft/r_edge.o
+ .debug_str     0x00000000000001f2       0x40 debugi386-glibc/ref_soft/r_image.o
+ .debug_str     0x0000000000000232       0x7d debugi386-glibc/ref_soft/r_light.o
+ .debug_str     0x00000000000002af       0xf2 debugi386-glibc/ref_soft/r_main.o
+ .debug_str     0x00000000000003a1       0xa6 debugi386-glibc/ref_soft/r_misc.o
+ .debug_str     0x0000000000000447       0xca debugi386-glibc/ref_soft/r_model.o
+ .debug_str     0x0000000000000511       0x87 debugi386-glibc/ref_soft/r_part.o
+ .debug_str     0x0000000000000598       0xa7 debugi386-glibc/ref_soft/r_poly.o
+ .debug_str     0x000000000000063f       0x4a debugi386-glibc/ref_soft/r_polyse.o
+ .debug_str     0x0000000000000689       0x7f debugi386-glibc/ref_soft/r_rast.o
+ .debug_str     0x0000000000000708       0xb0 debugi386-glibc/ref_soft/r_scan.o
+ .debug_str     0x00000000000007b8       0x64 debugi386-glibc/ref_soft/r_sprite.o
+ .debug_str     0x000000000000081c       0x83 debugi386-glibc/ref_soft/r_surf.o
+ .debug_str     0x000000000000089f        0x7 debugi386-glibc/ref_soft/q_shared.o
+ .debug_str     0x00000000000008a6      0x4e5 debugi386-glibc/ref_soft/q_shlinux.o
+                                        0x547 (size before relaxing)
+ .debug_str     0x0000000000000d8b        0x8 debugi386-glibc/ref_soft/glob.o
+ .debug_str     0x0000000000000d93       0x12 debugi386-glibc/ref_soft/rw_svgalib.o
+ .debug_str     0x0000000000000da5       0x16 debugi386-glibc/ref_soft/rw_in_svgalib.o
+
+.debug_loc      0x0000000000000000     0x33dc
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000       0x84 debugi386-glibc/ref_soft/r_aclip.o
+ .debug_loc     0x0000000000000084      0x210 debugi386-glibc/ref_soft/r_alias.o
+ .debug_loc     0x0000000000000294      0x134 debugi386-glibc/ref_soft/r_bsp.o
+ .debug_loc     0x00000000000003c8      0x1e4 debugi386-glibc/ref_soft/r_draw.o
+ .debug_loc     0x00000000000005ac      0x294 debugi386-glibc/ref_soft/r_edge.o
+ .debug_loc     0x0000000000000840      0x1e4 debugi386-glibc/ref_soft/r_image.o
+ .debug_loc     0x0000000000000a24      0x108 debugi386-glibc/ref_soft/r_light.o
+ .debug_loc     0x0000000000000b2c      0x4fc debugi386-glibc/ref_soft/r_main.o
+ .debug_loc     0x0000000000001028      0x210 debugi386-glibc/ref_soft/r_misc.o
+ .debug_loc     0x0000000000001238      0x4fc debugi386-glibc/ref_soft/r_model.o
+ .debug_loc     0x0000000000001734       0xdc debugi386-glibc/ref_soft/r_part.o
+ .debug_loc     0x0000000000001810      0x370 debugi386-glibc/ref_soft/r_poly.o
+ .debug_loc     0x0000000000001b80      0x268 debugi386-glibc/ref_soft/r_polyse.o
+ .debug_loc     0x0000000000001de8       0xdc debugi386-glibc/ref_soft/r_rast.o
+ .debug_loc     0x0000000000001ec4       0x84 debugi386-glibc/ref_soft/r_scan.o
+ .debug_loc     0x0000000000001f48       0x2c debugi386-glibc/ref_soft/r_sprite.o
+ .debug_loc     0x0000000000001f74      0x18c debugi386-glibc/ref_soft/r_surf.o
+ .debug_loc     0x0000000000002100      0x9a0 debugi386-glibc/ref_soft/q_shared.o
+ .debug_loc     0x0000000000002aa0      0x498 debugi386-glibc/ref_soft/q_shlinux.o
+ .debug_loc     0x0000000000002f38       0x84 debugi386-glibc/ref_soft/glob.o
+ .debug_loc     0x0000000000002fbc      0x1b8 debugi386-glibc/ref_soft/rw_svgalib.o
+ .debug_loc     0x0000000000003174      0x268 debugi386-glibc/ref_soft/rw_in_svgalib.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000       0x40
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000       0x20 /usr/lib/gcc/i486-linux-gnu/4.2.4/../../../../lib/crti.o
+ .debug_ranges  0x0000000000000020       0x20 /usr/lib/gcc/i486-linux-gnu/4.2.4/../../../../lib/crtn.o
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+OUTPUT(debugi386-glibc/ref_soft.so elf32-i386)

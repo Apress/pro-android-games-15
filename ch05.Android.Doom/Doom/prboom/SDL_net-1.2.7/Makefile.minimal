@@ -1,0 +1,35 @@
+# Makefile to build the SDL library
+
+#arm-none-linux-gnueabi-
+
+INCLUDE = -I../SDL-1.2.13/include
+CFLAGS  = -O2 $(INCLUDE) -DHAVE_SYS_TYPES_H
+CC 	= agcc
+AR	= arm-none-linux-gnueabi-ar
+RANLIB	= arm-none-linux-gnueabi-ranlib
+
+#CONFIG_H = include/SDL_config.h
+
+TARGET  = libSDL_net.a
+SOURCES = \
+	SDLnet.c		\
+	SDLnetTCP.c		\
+	SDLnetUDP.c		\
+	SDLnetselect.c		\
+#	SDLnetsys.h
+
+OBJECTS = $(shell echo $(SOURCES) | sed -e 's,\.c,\.o,g')
+
+all: $(TARGET)
+
+#$(CONFIG_H) 
+$(TARGET): $(OBJECTS)
+	ald -shared -o libSDL_net.so $(OBJECTS)
+	$(AR) crv $@ $^
+	$(RANLIB) $@
+
+#$(CONFIG_H):
+#	cp $(CONFIG_H).default $(CONFIG_H)
+
+clean:
+	rm -f  $(OBJECTS) # $(TARGET)

@@ -1,0 +1,139 @@
+/*
+Copyright (C) 2007-2009 Olli Hinkka
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  
+
+See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
+
+*/
+
+#define LOG_TAG "nanoGL"
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <dlfcn.h>
+
+//#include <cutils/log.h>
+
+#include "nanogl.h"
+#include "glesinterface.h"
+#include "gl.h"
+
+#define GL_ENTRY(_r, _api, ...) #_api,
+
+static char const * const gl_names[] = {
+    #include "gl_entries.in"
+    NULL
+};
+
+const char * driver;
+
+void* glesLib = NULL;
+
+GlESInterface* glEsImpl = NULL;
+
+extern void InitGLStructs();
+
+static void gl_unimplemented() { //const char * name) {
+    printf("called unimplemented OpenGL ES API \n"); //, name);
+}
+
+
+int CreateGlEsInterface()
+{
+	glEsImpl = (GlESInterface *) malloc(sizeof(GlESInterface)); //new GlESInterface;
+
+	if (!glEsImpl) {
+        	return -1;
+        }
+
+	// load GL API calls
+	char const * const * api;
+	api = gl_names;
+
+	// nanoGL interface pointer
+	void ** ptr = (void **)(glEsImpl);
+
+	while (*api) {
+            void * f = dlsym(glesLib, *api);
+
+            //LOGD("<%s> @ 0x%p\n", *api, f);
+
+            if (f == NULL) {
+                //LOGE("<%s> not found in %s\n", *api, driver);
+
+                f = (void*)gl_unimplemented;
+            }
+            
+	    *ptr++ = f;
+            api++;
+        }
+
+	return 0;
+}
+
+// Load using the dynamic loader
+int loadDriver(const char * name) {
+	glesLib = dlopen(name, RTLD_NOW | RTLD_LOCAL);
+	int rc = (glesLib) ? 1 : 0;
+	return rc;
+}
+
+int nanoGL_Init()
+{
+	const char * lib1 = "libGLES_CM.so";
+	const char * lib2 = "libGLESv1_CM.so";
+
+	// load lib
+	//LOGD("nanoGL_Init loading driver %s\n", lib1);
+
+	if ( ! loadDriver(lib1) ) 
+	{
+		//LOGE("Failed to load driver %s. Trying %s\n", lib1, lib2);
+
+		if ( ! loadDriver(lib2) ) {
+			//LOGE("Failed to load  %s.\n", lib2);
+			return -1;
+		}
+		else
+			driver = lib2;
+	}
+	else
+		driver = lib1;
+
+	// Load API
+	if (CreateGlEsInterface() == -1)
+        {
+		// release lib
+		//LOGE("CreateGlEsInterface failed\n");
+
+		dlclose(glesLib);
+	        return -1;
+        }
+
+	// Init nanoGL
+	InitGLStructs();
+	return 0;
+}
+
+void nanoGL_Destroy()
+{
+	if (glEsImpl) {
+        	free( glEsImpl); //delete glEsImpl;
+        	glEsImpl = NULL;
+        }
+	// release lib
+	dlclose(glesLib);
+}
+    
